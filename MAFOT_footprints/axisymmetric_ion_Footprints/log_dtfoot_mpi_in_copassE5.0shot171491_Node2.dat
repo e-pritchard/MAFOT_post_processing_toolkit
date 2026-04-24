@@ -1,0 +1,681 @@
+Read Parameterfile _inner_E5.0.dat
+Shot: 171491	Time: 3590ms	gFile: /home/evanp/MAFOT/python/g171491.03590
+Read Er profile: empty_Er.dat
+Ions are calculated. Charge: Z= 1
+kin. Energy: Ekin= 5keV	rel. gamma-factor: gamma= 1.000002664472573	Mass: M= 2
+Using g-file!
+F-coil: 0	C-coil: 0	I-coil: 0	Bus Error: 0	B-coil Error: 0
+
+I-coil currents:
+0	0	0	0	0	0	
+0	0	0	0	0	0	
+Target: 1
+
+Node: 2 works on Package: 2
+Start Tracer for 600 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+
+Node: 2 works on Package: 7
+Start Tracer for 600 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+
+Node: 2 works on Package: 10
+Start Tracer for 600 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+
+Node: 2 works on Package: 15
+Start Tracer for 600 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+
+Node: 2 works on Package: 18
+Start Tracer for 600 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+
+Node: 2 works on Package: 23
+Start Tracer for 600 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+
+Node: 2 works on Package: 27
+Start Tracer for 600 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+
+Node: 2 works on Package: 31
+Start Tracer for 600 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+
+Node: 2 works on Package: 34
+Start Tracer for 600 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+
+Node: 2 works on Package: 39
+Start Tracer for 600 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+
+Node: 2 works on Package: 42
+Start Tracer for 600 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+
+Node: 2 works on Package: 46
+Start Tracer for 600 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+
+Node: 2 works on Package: 50
+Start Tracer for 600 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+
+Node: 2 works on Package: 54
+Start Tracer for 600 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+
+Node: 2 works on Package: 58
+Start Tracer for 600 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+
+Node: 2 works on Package: 62
+Start Tracer for 600 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+
+Node: 2 works on Package: 66
+Start Tracer for 600 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+
+Node: 2 works on Package: 70
+Start Tracer for 600 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+
+Node: 2 works on Package: 74
+Start Tracer for 600 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+
+Node: 2 works on Package: 78
+Start Tracer for 600 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+
+Node: 2 works on Package: 82
+Start Tracer for 600 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+
+Node: 2 works on Package: 86
+Start Tracer for 600 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+
+Node: 2 works on Package: 90
+Start Tracer for 600 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+
+Node: 2 works on Package: 94
+Start Tracer for 600 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+
+Node: 2 works on Package: 98
+Start Tracer for 600 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+
+Node: 2 works on Package: 102
+Start Tracer for 600 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+
+Node: 2 works on Package: 106
+Start Tracer for 600 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+
+Node: 2 works on Package: 110
+Start Tracer for 600 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+
+Node: 2 works on Package: 114
+Start Tracer for 600 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+
+Node: 2 works on Package: 118
+Start Tracer for 600 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+
+Node: 2 works on Package: 122
+Start Tracer for 600 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+
+Node: 2 works on Package: 126
+Start Tracer for 600 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+
+Node: 2 works on Package: 130
+Start Tracer for 600 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+
+Node: 2 works on Package: 134
+Start Tracer for 600 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+
+Node: 2 works on Package: 138
+Start Tracer for 600 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+
+Node: 2 works on Package: 142
+Start Tracer for 600 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+
+Node: 2 works on Package: 146
+Start Tracer for 600 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+
+Node: 2 works on Package: 150
+Start Tracer for 600 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+
+Node: 2 works on Package: 154
+Start Tracer for 600 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+
+Node: 2 works on Package: 158
+Start Tracer for 600 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+
+Node: 2 works on Package: 162
+Start Tracer for 600 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+
+Node: 2 works on Package: 166
+Start Tracer for 600 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+
+Node: 2 works on Package: 170
+Start Tracer for 600 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+
+Node: 2 works on Package: 174
+Start Tracer for 600 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+
+Node: 2 works on Package: 178
+Start Tracer for 600 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+
+Node: 2 works on Package: 182
+Start Tracer for 600 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+
+Node: 2 works on Package: 187
+Start Tracer for 600 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+
+Node: 2 works on Package: 191
+Start Tracer for 600 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+
+Node: 2 works on Package: 195
+Start Tracer for 600 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+
+Node: 2 works on Package: 199
+Start Tracer for 600 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+
+Node: 2 works on Package: 203
+Start Tracer for 600 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+
+Node: 2 works on Package: 207
+Start Tracer for 600 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+
+Node: 2 works on Package: 211
+Start Tracer for 600 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+
+Node: 2 works on Package: 215
+Start Tracer for 600 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+
+Node: 2 works on Package: 220
+Start Tracer for 600 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+
+Node: 2 works on Package: 224
+Start Tracer for 600 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+
+Node: 2 works on Package: 228
+Start Tracer for 600 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+
+Node: 2 works on Package: 233
+Start Tracer for 600 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+
+Node: 2 works on Package: 237
+Start Tracer for 600 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+
+Node: 2 works on Package: 241
+Start Tracer for 600 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+
+Node: 2 works on Package: 245
+Start Tracer for 600 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+
+Node: 2 works on Package: 249
+Start Tracer for 600 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+
+Node: 2 works on Package: 253
+Start Tracer for 600 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+
+Node: 2 works on Package: 257
+Start Tracer for 600 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+
+Node: 2 works on Package: 261
+Start Tracer for 600 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+
+Node: 2 works on Package: 265
+Start Tracer for 600 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+
+Node: 2 works on Package: 269
+Start Tracer for 600 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+
+Node: 2 works on Package: 273
+Start Tracer for 600 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+
+Node: 2 works on Package: 278
+Start Tracer for 600 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+
+Node: 2 works on Package: 282
+Start Tracer for 600 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+
+Node: 2 works on Package: 287
+Start Tracer for 600 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+
+Node: 2 works on Package: 291
+Start Tracer for 600 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+
+Node: 2 works on Package: 295
+Start Tracer for 600 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+
+Node: 2 works on Package: 299
+Start Tracer for 600 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+
+Node: 2 works on Package: 0
+Program terminates normally, Time: 459.9500000476837 s

@@ -1,0 +1,195 @@
+Read Parameterfile _inner_E8.5.dat
+Shot: 171491	Time: 3590ms	gFile: /home/epritchard/MAFOT/python/g171491.03590
+Read Er profile: empty_Er.dat
+Electrons are calculated
+kin. Energy: Ekin= 8.5keV	rel. gamma-factor: gamma= 1.016634086600772	Mass: M= 1
+Using g-file!
+F-coil: 0	C-coil: 1	I-coil: 1	Bus Error: 0	B-coil Error: 0
+
+I-coil currents:
+-4453	4477	-4431	4296	-4363	4517	
+-4479	4277	-4390	4423	-4437	4443	
+Target: 1
+
+Node: 2 works on Package: 2
+Start Tracer for 600 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+
+Node: 2 works on Package: 16
+Start Tracer for 600 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+
+Node: 2 works on Package: 31
+Start Tracer for 600 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+
+Node: 2 works on Package: 40
+Start Tracer for 600 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+
+Node: 2 works on Package: 51
+Start Tracer for 600 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+
+Node: 2 works on Package: 61
+Start Tracer for 600 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+
+Node: 2 works on Package: 73
+Start Tracer for 600 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+
+Node: 2 works on Package: 85
+Start Tracer for 600 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+
+Node: 2 works on Package: 96
+Start Tracer for 600 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+
+Node: 2 works on Package: 105
+Start Tracer for 600 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+
+Node: 2 works on Package: 116
+Start Tracer for 600 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+
+Node: 2 works on Package: 124
+Start Tracer for 600 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+
+Node: 2 works on Package: 134
+Start Tracer for 600 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+
+Node: 2 works on Package: 145
+Start Tracer for 600 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+
+Node: 2 works on Package: 255
+Start Tracer for 600 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+
+Node: 2 works on Package: 264
+Start Tracer for 600 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+
+Node: 2 works on Package: 273
+Start Tracer for 600 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+
+Node: 2 works on Package: 282
+Start Tracer for 600 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+
+Node: 2 works on Package: 291
+Start Tracer for 600 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+
+Node: 2 works on Package: 300
+Start Tracer for 600 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+
+Node: 2 works on Package: 0
+Program terminates normally, Time: 1810.210000038147 s

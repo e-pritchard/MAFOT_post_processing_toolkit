@@ -1,0 +1,887 @@
+Shot: 171491	Time: 3590ms
+No. of Packages = 300 Points per Package = 600
+
+Start Tracer for 180000 points ... 
+Send Package No.: 1
+Send Package No.: 2
+Send Package No.: 3
+Send Package No.: 4
+Send Package No.: 5
+Send Package No.: 6
+Send Package No.: 7
+Send Package No.: 8
+Send Package No.: 9
+Send Package No.: 10
+Node: 0 works on Package: 11
+Recieve from Node: 6 Package: 6
+------------------------------------ Progress: 1 of 300 completed
+Send again to Node: 6 Package No.: 12
+Recieve from Node: 4 Package: 4
+------------------------------------ Progress: 2 of 300 completed
+Send again to Node: 4 Package No.: 13
+Recieve from Node: 2 Package: 2
+------------------------------------ Progress: 3 of 300 completed
+Send again to Node: 2 Package No.: 14
+Recieve from Node: 10 Package: 10
+------------------------------------ Progress: 4 of 300 completed
+Send again to Node: 10 Package No.: 15
+Recieve from Node: 8 Package: 8
+------------------------------------ Progress: 5 of 300 completed
+Send again to Node: 8 Package No.: 16
+Recieve from Node: 9 Package: 9
+------------------------------------ Progress: 6 of 300 completed
+Send again to Node: 9 Package No.: 17
+------------------------------------ Progress: 7 of 300 completed
+Node: 0 works on Package: 18
+Recieve from Node: 3 Package: 3
+------------------------------------ Progress: 8 of 300 completed
+Send again to Node: 3 Package No.: 19
+Recieve from Node: 1 Package: 1
+------------------------------------ Progress: 9 of 300 completed
+Send again to Node: 1 Package No.: 20
+Recieve from Node: 5 Package: 5
+------------------------------------ Progress: 10 of 300 completed
+Send again to Node: 5 Package No.: 21
+Recieve from Node: 7 Package: 7
+------------------------------------ Progress: 11 of 300 completed
+Send again to Node: 7 Package No.: 22
+Recieve from Node: 4 Package: 13
+------------------------------------ Progress: 12 of 300 completed
+Send again to Node: 4 Package No.: 23
+Recieve from Node: 6 Package: 12
+------------------------------------ Progress: 13 of 300 completed
+Send again to Node: 6 Package No.: 24
+Recieve from Node: 2 Package: 14
+------------------------------------ Progress: 14 of 300 completed
+Send again to Node: 2 Package No.: 25
+Recieve from Node: 10 Package: 15
+------------------------------------ Progress: 15 of 300 completed
+Send again to Node: 10 Package No.: 26
+Recieve from Node: 8 Package: 16
+------------------------------------ Progress: 16 of 300 completed
+Send again to Node: 8 Package No.: 27
+------------------------------------ Progress: 17 of 300 completed
+Node: 0 works on Package: 28
+Recieve from Node: 9 Package: 17
+------------------------------------ Progress: 18 of 300 completed
+Send again to Node: 9 Package No.: 29
+Recieve from Node: 1 Package: 20
+------------------------------------ Progress: 19 of 300 completed
+Send again to Node: 1 Package No.: 30
+Recieve from Node: 3 Package: 19
+------------------------------------ Progress: 20 of 300 completed
+Send again to Node: 3 Package No.: 31
+Recieve from Node: 5 Package: 21
+------------------------------------ Progress: 21 of 300 completed
+Send again to Node: 5 Package No.: 32
+Recieve from Node: 7 Package: 22
+------------------------------------ Progress: 22 of 300 completed
+Send again to Node: 7 Package No.: 33
+Recieve from Node: 2 Package: 25
+------------------------------------ Progress: 23 of 300 completed
+Send again to Node: 2 Package No.: 34
+Recieve from Node: 6 Package: 24
+------------------------------------ Progress: 24 of 300 completed
+Send again to Node: 6 Package No.: 35
+Recieve from Node: 4 Package: 23
+------------------------------------ Progress: 25 of 300 completed
+Send again to Node: 4 Package No.: 36
+Recieve from Node: 10 Package: 26
+------------------------------------ Progress: 26 of 300 completed
+Send again to Node: 10 Package No.: 37
+Recieve from Node: 8 Package: 27
+------------------------------------ Progress: 27 of 300 completed
+Send again to Node: 8 Package No.: 38
+------------------------------------ Progress: 28 of 300 completed
+Node: 0 works on Package: 39
+Recieve from Node: 9 Package: 29
+------------------------------------ Progress: 29 of 300 completed
+Send again to Node: 9 Package No.: 40
+Recieve from Node: 1 Package: 30
+------------------------------------ Progress: 30 of 300 completed
+Send again to Node: 1 Package No.: 41
+Recieve from Node: 3 Package: 31
+------------------------------------ Progress: 31 of 300 completed
+Send again to Node: 3 Package No.: 42
+Recieve from Node: 5 Package: 32
+------------------------------------ Progress: 32 of 300 completed
+Send again to Node: 5 Package No.: 43
+Recieve from Node: 7 Package: 33
+------------------------------------ Progress: 33 of 300 completed
+Send again to Node: 7 Package No.: 44
+Recieve from Node: 2 Package: 34
+------------------------------------ Progress: 34 of 300 completed
+Send again to Node: 2 Package No.: 45
+Recieve from Node: 6 Package: 35
+------------------------------------ Progress: 35 of 300 completed
+Send again to Node: 6 Package No.: 46
+Recieve from Node: 4 Package: 36
+------------------------------------ Progress: 36 of 300 completed
+Send again to Node: 4 Package No.: 47
+Recieve from Node: 9 Package: 40
+------------------------------------ Progress: 37 of 300 completed
+Send again to Node: 9 Package No.: 48
+------------------------------------ Progress: 38 of 300 completed
+Node: 0 works on Package: 49
+Recieve from Node: 8 Package: 38
+------------------------------------ Progress: 39 of 300 completed
+Send again to Node: 8 Package No.: 50
+Recieve from Node: 10 Package: 37
+------------------------------------ Progress: 40 of 300 completed
+Send again to Node: 10 Package No.: 51
+Recieve from Node: 1 Package: 41
+------------------------------------ Progress: 41 of 300 completed
+Send again to Node: 1 Package No.: 52
+Recieve from Node: 3 Package: 42
+------------------------------------ Progress: 42 of 300 completed
+Send again to Node: 3 Package No.: 53
+Recieve from Node: 5 Package: 43
+------------------------------------ Progress: 43 of 300 completed
+Send again to Node: 5 Package No.: 54
+Recieve from Node: 7 Package: 44
+------------------------------------ Progress: 44 of 300 completed
+Send again to Node: 7 Package No.: 55
+Recieve from Node: 2 Package: 45
+------------------------------------ Progress: 45 of 300 completed
+Send again to Node: 2 Package No.: 56
+------------------------------------ Progress: 46 of 300 completed
+Node: 0 works on Package: 57
+Recieve from Node: 9 Package: 48
+------------------------------------ Progress: 47 of 300 completed
+Send again to Node: 9 Package No.: 58
+Recieve from Node: 4 Package: 47
+------------------------------------ Progress: 48 of 300 completed
+Send again to Node: 4 Package No.: 59
+Recieve from Node: 6 Package: 46
+------------------------------------ Progress: 49 of 300 completed
+Send again to Node: 6 Package No.: 60
+Recieve from Node: 8 Package: 50
+------------------------------------ Progress: 50 of 300 completed
+Send again to Node: 8 Package No.: 61
+Recieve from Node: 10 Package: 51
+------------------------------------ Progress: 51 of 300 completed
+Send again to Node: 10 Package No.: 62
+Recieve from Node: 1 Package: 52
+------------------------------------ Progress: 52 of 300 completed
+Send again to Node: 1 Package No.: 63
+Recieve from Node: 3 Package: 53
+------------------------------------ Progress: 53 of 300 completed
+Send again to Node: 3 Package No.: 64
+Recieve from Node: 5 Package: 54
+------------------------------------ Progress: 54 of 300 completed
+Send again to Node: 5 Package No.: 65
+Recieve from Node: 7 Package: 55
+------------------------------------ Progress: 55 of 300 completed
+Send again to Node: 7 Package No.: 66
+Recieve from Node: 2 Package: 56
+------------------------------------ Progress: 56 of 300 completed
+Send again to Node: 2 Package No.: 67
+------------------------------------ Progress: 57 of 300 completed
+Node: 0 works on Package: 68
+Recieve from Node: 9 Package: 58
+------------------------------------ Progress: 58 of 300 completed
+Send again to Node: 9 Package No.: 69
+Recieve from Node: 6 Package: 60
+------------------------------------ Progress: 59 of 300 completed
+Send again to Node: 6 Package No.: 70
+Recieve from Node: 4 Package: 59
+------------------------------------ Progress: 60 of 300 completed
+Send again to Node: 4 Package No.: 71
+Recieve from Node: 8 Package: 61
+------------------------------------ Progress: 61 of 300 completed
+Send again to Node: 8 Package No.: 72
+Recieve from Node: 10 Package: 62
+------------------------------------ Progress: 62 of 300 completed
+Send again to Node: 10 Package No.: 73
+Recieve from Node: 1 Package: 63
+------------------------------------ Progress: 63 of 300 completed
+Send again to Node: 1 Package No.: 74
+Recieve from Node: 3 Package: 64
+------------------------------------ Progress: 64 of 300 completed
+Send again to Node: 3 Package No.: 75
+Recieve from Node: 5 Package: 65
+------------------------------------ Progress: 65 of 300 completed
+Send again to Node: 5 Package No.: 76
+Recieve from Node: 7 Package: 66
+------------------------------------ Progress: 66 of 300 completed
+Send again to Node: 7 Package No.: 77
+Recieve from Node: 2 Package: 67
+------------------------------------ Progress: 67 of 300 completed
+Send again to Node: 2 Package No.: 78
+------------------------------------ Progress: 68 of 300 completed
+Node: 0 works on Package: 79
+Recieve from Node: 9 Package: 69
+------------------------------------ Progress: 69 of 300 completed
+Send again to Node: 9 Package No.: 80
+Recieve from Node: 6 Package: 70
+------------------------------------ Progress: 70 of 300 completed
+Send again to Node: 6 Package No.: 81
+Recieve from Node: 4 Package: 71
+------------------------------------ Progress: 71 of 300 completed
+Send again to Node: 4 Package No.: 82
+Recieve from Node: 8 Package: 72
+------------------------------------ Progress: 72 of 300 completed
+Send again to Node: 8 Package No.: 83
+Recieve from Node: 10 Package: 73
+------------------------------------ Progress: 73 of 300 completed
+Send again to Node: 10 Package No.: 84
+Recieve from Node: 1 Package: 74
+------------------------------------ Progress: 74 of 300 completed
+Send again to Node: 1 Package No.: 85
+Recieve from Node: 3 Package: 75
+------------------------------------ Progress: 75 of 300 completed
+Send again to Node: 3 Package No.: 86
+Recieve from Node: 5 Package: 76
+------------------------------------ Progress: 76 of 300 completed
+Send again to Node: 5 Package No.: 87
+Recieve from Node: 7 Package: 77
+------------------------------------ Progress: 77 of 300 completed
+Send again to Node: 7 Package No.: 88
+Recieve from Node: 2 Package: 78
+------------------------------------ Progress: 78 of 300 completed
+Send again to Node: 2 Package No.: 89
+------------------------------------ Progress: 79 of 300 completed
+Node: 0 works on Package: 90
+Recieve from Node: 9 Package: 80
+------------------------------------ Progress: 80 of 300 completed
+Send again to Node: 9 Package No.: 91
+Recieve from Node: 4 Package: 82
+------------------------------------ Progress: 81 of 300 completed
+Send again to Node: 4 Package No.: 92
+Recieve from Node: 6 Package: 81
+------------------------------------ Progress: 82 of 300 completed
+Send again to Node: 6 Package No.: 93
+Recieve from Node: 8 Package: 83
+------------------------------------ Progress: 83 of 300 completed
+Send again to Node: 8 Package No.: 94
+Recieve from Node: 10 Package: 84
+------------------------------------ Progress: 84 of 300 completed
+Send again to Node: 10 Package No.: 95
+Recieve from Node: 3 Package: 86
+------------------------------------ Progress: 85 of 300 completed
+Send again to Node: 3 Package No.: 96
+Recieve from Node: 1 Package: 85
+------------------------------------ Progress: 86 of 300 completed
+Send again to Node: 1 Package No.: 97
+Recieve from Node: 5 Package: 87
+------------------------------------ Progress: 87 of 300 completed
+Send again to Node: 5 Package No.: 98
+Recieve from Node: 7 Package: 88
+------------------------------------ Progress: 88 of 300 completed
+Send again to Node: 7 Package No.: 99
+Recieve from Node: 2 Package: 89
+------------------------------------ Progress: 89 of 300 completed
+Send again to Node: 2 Package No.: 100
+------------------------------------ Progress: 90 of 300 completed
+Node: 0 works on Package: 101
+Recieve from Node: 9 Package: 91
+------------------------------------ Progress: 91 of 300 completed
+Send again to Node: 9 Package No.: 102
+Recieve from Node: 4 Package: 92
+------------------------------------ Progress: 92 of 300 completed
+Send again to Node: 4 Package No.: 103
+Recieve from Node: 6 Package: 93
+------------------------------------ Progress: 93 of 300 completed
+Send again to Node: 6 Package No.: 104
+Recieve from Node: 8 Package: 94
+------------------------------------ Progress: 94 of 300 completed
+Send again to Node: 8 Package No.: 105
+Recieve from Node: 10 Package: 95
+------------------------------------ Progress: 95 of 300 completed
+Send again to Node: 10 Package No.: 106
+Recieve from Node: 3 Package: 96
+------------------------------------ Progress: 96 of 300 completed
+Send again to Node: 3 Package No.: 107
+Recieve from Node: 1 Package: 97
+------------------------------------ Progress: 97 of 300 completed
+Send again to Node: 1 Package No.: 108
+Recieve from Node: 5 Package: 98
+------------------------------------ Progress: 98 of 300 completed
+Send again to Node: 5 Package No.: 109
+Recieve from Node: 7 Package: 99
+------------------------------------ Progress: 99 of 300 completed
+Send again to Node: 7 Package No.: 110
+Recieve from Node: 2 Package: 100
+------------------------------------ Progress: 100 of 300 completed
+Send again to Node: 2 Package No.: 111
+------------------------------------ Progress: 101 of 300 completed
+Node: 0 works on Package: 112
+Recieve from Node: 9 Package: 102
+------------------------------------ Progress: 102 of 300 completed
+Send again to Node: 9 Package No.: 113
+Recieve from Node: 4 Package: 103
+------------------------------------ Progress: 103 of 300 completed
+Send again to Node: 4 Package No.: 114
+Recieve from Node: 6 Package: 104
+------------------------------------ Progress: 104 of 300 completed
+Send again to Node: 6 Package No.: 115
+Recieve from Node: 8 Package: 105
+------------------------------------ Progress: 105 of 300 completed
+Send again to Node: 8 Package No.: 116
+Recieve from Node: 10 Package: 106
+------------------------------------ Progress: 106 of 300 completed
+Send again to Node: 10 Package No.: 117
+Recieve from Node: 3 Package: 107
+------------------------------------ Progress: 107 of 300 completed
+Send again to Node: 3 Package No.: 118
+Recieve from Node: 1 Package: 108
+------------------------------------ Progress: 108 of 300 completed
+Send again to Node: 1 Package No.: 119
+Recieve from Node: 5 Package: 109
+------------------------------------ Progress: 109 of 300 completed
+Send again to Node: 5 Package No.: 120
+Recieve from Node: 2 Package: 111
+------------------------------------ Progress: 110 of 300 completed
+Send again to Node: 2 Package No.: 121
+Recieve from Node: 7 Package: 110
+------------------------------------ Progress: 111 of 300 completed
+Send again to Node: 7 Package No.: 122
+------------------------------------ Progress: 112 of 300 completed
+Node: 0 works on Package: 123
+Recieve from Node: 9 Package: 113
+------------------------------------ Progress: 113 of 300 completed
+Send again to Node: 9 Package No.: 124
+Recieve from Node: 4 Package: 114
+------------------------------------ Progress: 114 of 300 completed
+Send again to Node: 4 Package No.: 125
+Recieve from Node: 6 Package: 115
+------------------------------------ Progress: 115 of 300 completed
+Send again to Node: 6 Package No.: 126
+Recieve from Node: 8 Package: 116
+------------------------------------ Progress: 116 of 300 completed
+Send again to Node: 8 Package No.: 127
+Recieve from Node: 10 Package: 117
+------------------------------------ Progress: 117 of 300 completed
+Send again to Node: 10 Package No.: 128
+Recieve from Node: 3 Package: 118
+------------------------------------ Progress: 118 of 300 completed
+Send again to Node: 3 Package No.: 129
+Recieve from Node: 1 Package: 119
+------------------------------------ Progress: 119 of 300 completed
+Send again to Node: 1 Package No.: 130
+Recieve from Node: 2 Package: 121
+------------------------------------ Progress: 120 of 300 completed
+Send again to Node: 2 Package No.: 131
+Recieve from Node: 5 Package: 120
+------------------------------------ Progress: 121 of 300 completed
+Send again to Node: 5 Package No.: 132
+------------------------------------ Progress: 122 of 300 completed
+Node: 0 works on Package: 133
+Recieve from Node: 9 Package: 124
+------------------------------------ Progress: 123 of 300 completed
+Send again to Node: 9 Package No.: 134
+Recieve from Node: 7 Package: 122
+------------------------------------ Progress: 124 of 300 completed
+Send again to Node: 7 Package No.: 135
+Recieve from Node: 4 Package: 125
+------------------------------------ Progress: 125 of 300 completed
+Send again to Node: 4 Package No.: 136
+Recieve from Node: 6 Package: 126
+------------------------------------ Progress: 126 of 300 completed
+Send again to Node: 6 Package No.: 137
+Recieve from Node: 8 Package: 127
+------------------------------------ Progress: 127 of 300 completed
+Send again to Node: 8 Package No.: 138
+Recieve from Node: 10 Package: 128
+------------------------------------ Progress: 128 of 300 completed
+Send again to Node: 10 Package No.: 139
+Recieve from Node: 2 Package: 131
+------------------------------------ Progress: 129 of 300 completed
+Send again to Node: 2 Package No.: 140
+Recieve from Node: 3 Package: 129
+------------------------------------ Progress: 130 of 300 completed
+Send again to Node: 3 Package No.: 141
+Recieve from Node: 1 Package: 130
+------------------------------------ Progress: 131 of 300 completed
+Send again to Node: 1 Package No.: 142
+------------------------------------ Progress: 132 of 300 completed
+Node: 0 works on Package: 143
+Recieve from Node: 9 Package: 134
+------------------------------------ Progress: 133 of 300 completed
+Send again to Node: 9 Package No.: 144
+Recieve from Node: 5 Package: 132
+------------------------------------ Progress: 134 of 300 completed
+Send again to Node: 5 Package No.: 145
+Recieve from Node: 7 Package: 135
+------------------------------------ Progress: 135 of 300 completed
+Send again to Node: 7 Package No.: 146
+Recieve from Node: 4 Package: 136
+------------------------------------ Progress: 136 of 300 completed
+Send again to Node: 4 Package No.: 147
+Recieve from Node: 6 Package: 137
+------------------------------------ Progress: 137 of 300 completed
+Send again to Node: 6 Package No.: 148
+Recieve from Node: 8 Package: 138
+------------------------------------ Progress: 138 of 300 completed
+Send again to Node: 8 Package No.: 149
+Recieve from Node: 10 Package: 139
+------------------------------------ Progress: 139 of 300 completed
+Send again to Node: 10 Package No.: 150
+Recieve from Node: 8 Package: 149
+------------------------------------ Progress: 140 of 300 completed
+Send again to Node: 8 Package No.: 151
+Recieve from Node: 10 Package: 150
+------------------------------------ Progress: 141 of 300 completed
+Send again to Node: 10 Package No.: 152
+Recieve from Node: 6 Package: 148
+------------------------------------ Progress: 142 of 300 completed
+Send again to Node: 6 Package No.: 153
+Recieve from Node: 4 Package: 147
+------------------------------------ Progress: 143 of 300 completed
+Send again to Node: 4 Package No.: 154
+Recieve from Node: 2 Package: 140
+------------------------------------ Progress: 144 of 300 completed
+Send again to Node: 2 Package No.: 155
+Recieve from Node: 8 Package: 151
+------------------------------------ Progress: 145 of 300 completed
+Send again to Node: 8 Package No.: 156
+Recieve from Node: 10 Package: 152
+------------------------------------ Progress: 146 of 300 completed
+Send again to Node: 10 Package No.: 157
+Recieve from Node: 6 Package: 153
+------------------------------------ Progress: 147 of 300 completed
+Send again to Node: 6 Package No.: 158
+Recieve from Node: 4 Package: 154
+------------------------------------ Progress: 148 of 300 completed
+Send again to Node: 4 Package No.: 159
+Recieve from Node: 3 Package: 141
+------------------------------------ Progress: 149 of 300 completed
+Send again to Node: 3 Package No.: 160
+Recieve from Node: 1 Package: 142
+------------------------------------ Progress: 150 of 300 completed
+Send again to Node: 1 Package No.: 161
+------------------------------------ Progress: 151 of 300 completed
+Node: 0 works on Package: 162
+Recieve from Node: 9 Package: 144
+------------------------------------ Progress: 152 of 300 completed
+Send again to Node: 9 Package No.: 163
+Recieve from Node: 2 Package: 155
+------------------------------------ Progress: 153 of 300 completed
+Send again to Node: 2 Package No.: 164
+Recieve from Node: 6 Package: 158
+------------------------------------ Progress: 154 of 300 completed
+Send again to Node: 6 Package No.: 165
+Recieve from Node: 10 Package: 157
+------------------------------------ Progress: 155 of 300 completed
+Send again to Node: 10 Package No.: 166
+Recieve from Node: 8 Package: 156
+------------------------------------ Progress: 156 of 300 completed
+Send again to Node: 8 Package No.: 167
+Recieve from Node: 4 Package: 159
+------------------------------------ Progress: 157 of 300 completed
+Send again to Node: 4 Package No.: 168
+Recieve from Node: 3 Package: 160
+------------------------------------ Progress: 158 of 300 completed
+Send again to Node: 3 Package No.: 169
+Recieve from Node: 5 Package: 145
+------------------------------------ Progress: 159 of 300 completed
+Send again to Node: 5 Package No.: 170
+------------------------------------ Progress: 160 of 300 completed
+Node: 0 works on Package: 171
+Recieve from Node: 1 Package: 161
+------------------------------------ Progress: 161 of 300 completed
+Send again to Node: 1 Package No.: 172
+Recieve from Node: 9 Package: 163
+------------------------------------ Progress: 162 of 300 completed
+Send again to Node: 9 Package No.: 173
+Recieve from Node: 2 Package: 164
+------------------------------------ Progress: 163 of 300 completed
+Send again to Node: 2 Package No.: 174
+Recieve from Node: 10 Package: 166
+------------------------------------ Progress: 164 of 300 completed
+Send again to Node: 10 Package No.: 175
+Recieve from Node: 8 Package: 167
+------------------------------------ Progress: 165 of 300 completed
+Send again to Node: 8 Package No.: 176
+Recieve from Node: 6 Package: 165
+------------------------------------ Progress: 166 of 300 completed
+Send again to Node: 6 Package No.: 177
+Recieve from Node: 7 Package: 146
+------------------------------------ Progress: 167 of 300 completed
+Send again to Node: 7 Package No.: 178
+Recieve from Node: 4 Package: 168
+------------------------------------ Progress: 168 of 300 completed
+Send again to Node: 4 Package No.: 179
+------------------------------------ Progress: 169 of 300 completed
+Node: 0 works on Package: 180
+Recieve from Node: 3 Package: 169
+------------------------------------ Progress: 170 of 300 completed
+Send again to Node: 3 Package No.: 181
+Recieve from Node: 5 Package: 170
+------------------------------------ Progress: 171 of 300 completed
+Send again to Node: 5 Package No.: 182
+Recieve from Node: 1 Package: 172
+------------------------------------ Progress: 172 of 300 completed
+Send again to Node: 1 Package No.: 183
+Recieve from Node: 9 Package: 173
+------------------------------------ Progress: 173 of 300 completed
+Send again to Node: 9 Package No.: 184
+Recieve from Node: 2 Package: 174
+------------------------------------ Progress: 174 of 300 completed
+Send again to Node: 2 Package No.: 185
+Recieve from Node: 8 Package: 176
+------------------------------------ Progress: 175 of 300 completed
+Send again to Node: 8 Package No.: 186
+Recieve from Node: 10 Package: 175
+------------------------------------ Progress: 176 of 300 completed
+Send again to Node: 10 Package No.: 187
+Recieve from Node: 6 Package: 177
+------------------------------------ Progress: 177 of 300 completed
+Send again to Node: 6 Package No.: 188
+Recieve from Node: 7 Package: 178
+------------------------------------ Progress: 178 of 300 completed
+Send again to Node: 7 Package No.: 189
+Recieve from Node: 4 Package: 179
+------------------------------------ Progress: 179 of 300 completed
+Send again to Node: 4 Package No.: 190
+------------------------------------ Progress: 180 of 300 completed
+Node: 0 works on Package: 191
+Recieve from Node: 3 Package: 181
+------------------------------------ Progress: 181 of 300 completed
+Send again to Node: 3 Package No.: 192
+Recieve from Node: 5 Package: 182
+------------------------------------ Progress: 182 of 300 completed
+Send again to Node: 5 Package No.: 193
+Recieve from Node: 1 Package: 183
+------------------------------------ Progress: 183 of 300 completed
+Send again to Node: 1 Package No.: 194
+Recieve from Node: 9 Package: 184
+------------------------------------ Progress: 184 of 300 completed
+Send again to Node: 9 Package No.: 195
+Recieve from Node: 2 Package: 185
+------------------------------------ Progress: 185 of 300 completed
+Send again to Node: 2 Package No.: 196
+Recieve from Node: 10 Package: 187
+------------------------------------ Progress: 186 of 300 completed
+Send again to Node: 10 Package No.: 197
+Recieve from Node: 8 Package: 186
+------------------------------------ Progress: 187 of 300 completed
+Send again to Node: 8 Package No.: 198
+Recieve from Node: 6 Package: 188
+------------------------------------ Progress: 188 of 300 completed
+Send again to Node: 6 Package No.: 199
+Recieve from Node: 4 Package: 190
+------------------------------------ Progress: 189 of 300 completed
+Send again to Node: 4 Package No.: 200
+Recieve from Node: 7 Package: 189
+------------------------------------ Progress: 190 of 300 completed
+Send again to Node: 7 Package No.: 201
+------------------------------------ Progress: 191 of 300 completed
+Node: 0 works on Package: 202
+Recieve from Node: 3 Package: 192
+------------------------------------ Progress: 192 of 300 completed
+Send again to Node: 3 Package No.: 203
+Recieve from Node: 9 Package: 195
+------------------------------------ Progress: 193 of 300 completed
+Send again to Node: 9 Package No.: 204
+Recieve from Node: 5 Package: 193
+------------------------------------ Progress: 194 of 300 completed
+Send again to Node: 5 Package No.: 205
+Recieve from Node: 1 Package: 194
+------------------------------------ Progress: 195 of 300 completed
+Send again to Node: 1 Package No.: 206
+Recieve from Node: 2 Package: 196
+------------------------------------ Progress: 196 of 300 completed
+Send again to Node: 2 Package No.: 207
+Recieve from Node: 10 Package: 197
+------------------------------------ Progress: 197 of 300 completed
+Send again to Node: 10 Package No.: 208
+Recieve from Node: 8 Package: 198
+------------------------------------ Progress: 198 of 300 completed
+Send again to Node: 8 Package No.: 209
+Recieve from Node: 6 Package: 199
+------------------------------------ Progress: 199 of 300 completed
+Send again to Node: 6 Package No.: 210
+Recieve from Node: 4 Package: 200
+------------------------------------ Progress: 200 of 300 completed
+Send again to Node: 4 Package No.: 211
+Recieve from Node: 7 Package: 201
+------------------------------------ Progress: 201 of 300 completed
+Send again to Node: 7 Package No.: 212
+------------------------------------ Progress: 202 of 300 completed
+Node: 0 works on Package: 213
+Recieve from Node: 3 Package: 203
+------------------------------------ Progress: 203 of 300 completed
+Send again to Node: 3 Package No.: 214
+Recieve from Node: 9 Package: 204
+------------------------------------ Progress: 204 of 300 completed
+Send again to Node: 9 Package No.: 215
+Recieve from Node: 5 Package: 205
+------------------------------------ Progress: 205 of 300 completed
+Send again to Node: 5 Package No.: 216
+Recieve from Node: 1 Package: 206
+------------------------------------ Progress: 206 of 300 completed
+Send again to Node: 1 Package No.: 217
+Recieve from Node: 2 Package: 207
+------------------------------------ Progress: 207 of 300 completed
+Send again to Node: 2 Package No.: 218
+Recieve from Node: 8 Package: 209
+------------------------------------ Progress: 208 of 300 completed
+Send again to Node: 8 Package No.: 219
+Recieve from Node: 10 Package: 208
+------------------------------------ Progress: 209 of 300 completed
+Send again to Node: 10 Package No.: 220
+Recieve from Node: 6 Package: 210
+------------------------------------ Progress: 210 of 300 completed
+Send again to Node: 6 Package No.: 221
+Recieve from Node: 4 Package: 211
+------------------------------------ Progress: 211 of 300 completed
+Send again to Node: 4 Package No.: 222
+------------------------------------ Progress: 212 of 300 completed
+Node: 0 works on Package: 223
+Recieve from Node: 7 Package: 212
+------------------------------------ Progress: 213 of 300 completed
+Send again to Node: 7 Package No.: 224
+Recieve from Node: 9 Package: 215
+------------------------------------ Progress: 214 of 300 completed
+Send again to Node: 9 Package No.: 225
+Recieve from Node: 3 Package: 214
+------------------------------------ Progress: 215 of 300 completed
+Send again to Node: 3 Package No.: 226
+Recieve from Node: 1 Package: 217
+------------------------------------ Progress: 216 of 300 completed
+Send again to Node: 1 Package No.: 227
+Recieve from Node: 5 Package: 216
+------------------------------------ Progress: 217 of 300 completed
+Send again to Node: 5 Package No.: 228
+Recieve from Node: 2 Package: 218
+------------------------------------ Progress: 218 of 300 completed
+Send again to Node: 2 Package No.: 229
+Recieve from Node: 8 Package: 219
+------------------------------------ Progress: 219 of 300 completed
+Send again to Node: 8 Package No.: 230
+Recieve from Node: 10 Package: 220
+------------------------------------ Progress: 220 of 300 completed
+Send again to Node: 10 Package No.: 231
+Recieve from Node: 6 Package: 221
+------------------------------------ Progress: 221 of 300 completed
+Send again to Node: 6 Package No.: 232
+Recieve from Node: 4 Package: 222
+------------------------------------ Progress: 222 of 300 completed
+Send again to Node: 4 Package No.: 233
+------------------------------------ Progress: 223 of 300 completed
+Node: 0 works on Package: 234
+Recieve from Node: 7 Package: 224
+------------------------------------ Progress: 224 of 300 completed
+Send again to Node: 7 Package No.: 235
+Recieve from Node: 9 Package: 225
+------------------------------------ Progress: 225 of 300 completed
+Send again to Node: 9 Package No.: 236
+Recieve from Node: 3 Package: 226
+------------------------------------ Progress: 226 of 300 completed
+Send again to Node: 3 Package No.: 237
+Recieve from Node: 2 Package: 229
+------------------------------------ Progress: 227 of 300 completed
+Send again to Node: 2 Package No.: 238
+Recieve from Node: 5 Package: 228
+------------------------------------ Progress: 228 of 300 completed
+Send again to Node: 5 Package No.: 239
+Recieve from Node: 1 Package: 227
+------------------------------------ Progress: 229 of 300 completed
+Send again to Node: 1 Package No.: 240
+Recieve from Node: 8 Package: 230
+------------------------------------ Progress: 230 of 300 completed
+Send again to Node: 8 Package No.: 241
+Recieve from Node: 10 Package: 231
+------------------------------------ Progress: 231 of 300 completed
+Send again to Node: 10 Package No.: 242
+Recieve from Node: 6 Package: 232
+------------------------------------ Progress: 232 of 300 completed
+Send again to Node: 6 Package No.: 243
+Recieve from Node: 4 Package: 233
+------------------------------------ Progress: 233 of 300 completed
+Send again to Node: 4 Package No.: 244
+------------------------------------ Progress: 234 of 300 completed
+Node: 0 works on Package: 245
+Recieve from Node: 7 Package: 235
+------------------------------------ Progress: 235 of 300 completed
+Send again to Node: 7 Package No.: 246
+Recieve from Node: 9 Package: 236
+------------------------------------ Progress: 236 of 300 completed
+Send again to Node: 9 Package No.: 247
+Recieve from Node: 2 Package: 238
+------------------------------------ Progress: 237 of 300 completed
+Send again to Node: 2 Package No.: 248
+Recieve from Node: 3 Package: 237
+------------------------------------ Progress: 238 of 300 completed
+Send again to Node: 3 Package No.: 249
+Recieve from Node: 8 Package: 241
+------------------------------------ Progress: 239 of 300 completed
+Send again to Node: 8 Package No.: 250
+Recieve from Node: 5 Package: 239
+------------------------------------ Progress: 240 of 300 completed
+Send again to Node: 5 Package No.: 251
+Recieve from Node: 1 Package: 240
+------------------------------------ Progress: 241 of 300 completed
+Send again to Node: 1 Package No.: 252
+Recieve from Node: 10 Package: 242
+------------------------------------ Progress: 242 of 300 completed
+Send again to Node: 10 Package No.: 253
+Recieve from Node: 6 Package: 243
+------------------------------------ Progress: 243 of 300 completed
+Send again to Node: 6 Package No.: 254
+Recieve from Node: 4 Package: 244
+------------------------------------ Progress: 244 of 300 completed
+Send again to Node: 4 Package No.: 255
+------------------------------------ Progress: 245 of 300 completed
+Node: 0 works on Package: 256
+Recieve from Node: 7 Package: 246
+------------------------------------ Progress: 246 of 300 completed
+Send again to Node: 7 Package No.: 257
+Recieve from Node: 9 Package: 247
+------------------------------------ Progress: 247 of 300 completed
+Send again to Node: 9 Package No.: 258
+Recieve from Node: 2 Package: 248
+------------------------------------ Progress: 248 of 300 completed
+Send again to Node: 2 Package No.: 259
+Recieve from Node: 8 Package: 250
+------------------------------------ Progress: 249 of 300 completed
+Send again to Node: 8 Package No.: 260
+Recieve from Node: 10 Package: 253
+------------------------------------ Progress: 250 of 300 completed
+Send again to Node: 10 Package No.: 261
+Recieve from Node: 6 Package: 254
+------------------------------------ Progress: 251 of 300 completed
+Send again to Node: 6 Package No.: 262
+Recieve from Node: 3 Package: 249
+------------------------------------ Progress: 252 of 300 completed
+Send again to Node: 3 Package No.: 263
+Recieve from Node: 4 Package: 255
+------------------------------------ Progress: 253 of 300 completed
+Send again to Node: 4 Package No.: 264
+Recieve from Node: 5 Package: 251
+------------------------------------ Progress: 254 of 300 completed
+Send again to Node: 5 Package No.: 265
+Recieve from Node: 1 Package: 252
+------------------------------------ Progress: 255 of 300 completed
+Send again to Node: 1 Package No.: 266
+------------------------------------ Progress: 256 of 300 completed
+Node: 0 works on Package: 267
+Recieve from Node: 9 Package: 258
+------------------------------------ Progress: 257 of 300 completed
+Send again to Node: 9 Package No.: 268
+Recieve from Node: 2 Package: 259
+------------------------------------ Progress: 258 of 300 completed
+Send again to Node: 2 Package No.: 269
+Recieve from Node: 7 Package: 257
+------------------------------------ Progress: 259 of 300 completed
+Send again to Node: 7 Package No.: 270
+Recieve from Node: 8 Package: 260
+------------------------------------ Progress: 260 of 300 completed
+Send again to Node: 8 Package No.: 271
+Recieve from Node: 6 Package: 262
+------------------------------------ Progress: 261 of 300 completed
+Send again to Node: 6 Package No.: 272
+Recieve from Node: 10 Package: 261
+------------------------------------ Progress: 262 of 300 completed
+Send again to Node: 10 Package No.: 273
+Recieve from Node: 4 Package: 264
+------------------------------------ Progress: 263 of 300 completed
+Send again to Node: 4 Package No.: 274
+------------------------------------ Progress: 264 of 300 completed
+Node: 0 works on Package: 275
+Recieve from Node: 9 Package: 268
+------------------------------------ Progress: 265 of 300 completed
+Send again to Node: 9 Package No.: 276
+Recieve from Node: 5 Package: 265
+------------------------------------ Progress: 266 of 300 completed
+Send again to Node: 5 Package No.: 277
+Recieve from Node: 3 Package: 263
+------------------------------------ Progress: 267 of 300 completed
+Send again to Node: 3 Package No.: 278
+Recieve from Node: 1 Package: 266
+------------------------------------ Progress: 268 of 300 completed
+Send again to Node: 1 Package No.: 279
+Recieve from Node: 2 Package: 269
+------------------------------------ Progress: 269 of 300 completed
+Send again to Node: 2 Package No.: 280
+Recieve from Node: 8 Package: 271
+------------------------------------ Progress: 270 of 300 completed
+Send again to Node: 8 Package No.: 281
+Recieve from Node: 6 Package: 272
+------------------------------------ Progress: 271 of 300 completed
+Send again to Node: 6 Package No.: 282
+Recieve from Node: 10 Package: 273
+------------------------------------ Progress: 272 of 300 completed
+Send again to Node: 10 Package No.: 283
+Recieve from Node: 4 Package: 274
+------------------------------------ Progress: 273 of 300 completed
+Send again to Node: 4 Package No.: 284
+------------------------------------ Progress: 274 of 300 completed
+Node: 0 works on Package: 285
+Recieve from Node: 7 Package: 270
+------------------------------------ Progress: 275 of 300 completed
+Send again to Node: 7 Package No.: 286
+Recieve from Node: 9 Package: 276
+------------------------------------ Progress: 276 of 300 completed
+Send again to Node: 9 Package No.: 287
+Recieve from Node: 2 Package: 280
+------------------------------------ Progress: 277 of 300 completed
+Send again to Node: 2 Package No.: 288
+Recieve from Node: 5 Package: 277
+------------------------------------ Progress: 278 of 300 completed
+Send again to Node: 5 Package No.: 289
+Recieve from Node: 3 Package: 278
+------------------------------------ Progress: 279 of 300 completed
+Send again to Node: 3 Package No.: 290
+Recieve from Node: 1 Package: 279
+------------------------------------ Progress: 280 of 300 completed
+Send again to Node: 1 Package No.: 291
+Recieve from Node: 6 Package: 282
+------------------------------------ Progress: 281 of 300 completed
+Send again to Node: 6 Package No.: 292
+Recieve from Node: 10 Package: 283
+------------------------------------ Progress: 282 of 300 completed
+Send again to Node: 10 Package No.: 293
+------------------------------------ Progress: 283 of 300 completed
+Node: 0 works on Package: 294
+Recieve from Node: 4 Package: 284
+------------------------------------ Progress: 284 of 300 completed
+Send again to Node: 4 Package No.: 295
+Recieve from Node: 8 Package: 281
+------------------------------------ Progress: 285 of 300 completed
+Send again to Node: 8 Package No.: 296
+Recieve from Node: 9 Package: 287
+------------------------------------ Progress: 286 of 300 completed
+Send again to Node: 9 Package No.: 297
+Recieve from Node: 2 Package: 288
+------------------------------------ Progress: 287 of 300 completed
+Send again to Node: 2 Package No.: 298
+Recieve from Node: 7 Package: 286
+------------------------------------ Progress: 288 of 300 completed
+Send again to Node: 7 Package No.: 299
+Recieve from Node: 10 Package: 293
+------------------------------------ Progress: 289 of 300 completed
+Send again to Node: 10 Package No.: 300
+Recieve from Node: 4 Package: 295
+------------------------------------ Progress: 290 of 300 completed
+Send termination signal to Node: 4
+------------------------------------ Progress: 291 of 300 completed
+Recieve from Node: 8 Package: 296
+------------------------------------ Progress: 292 of 300 completed
+Send termination signal to Node: 8
+Recieve from Node: 6 Package: 292
+------------------------------------ Progress: 293 of 300 completed
+Send termination signal to Node: 6
+Recieve from Node: 5 Package: 289
+------------------------------------ Progress: 294 of 300 completed
+Send termination signal to Node: 5
+Recieve from Node: 3 Package: 290
+------------------------------------ Progress: 295 of 300 completed
+Send termination signal to Node: 3
+Recieve from Node: 1 Package: 291
+------------------------------------ Progress: 296 of 300 completed
+Send termination signal to Node: 1
+Recieve from Node: 9 Package: 297
+------------------------------------ Progress: 297 of 300 completed
+Send termination signal to Node: 9
+Recieve from Node: 2 Package: 298
+------------------------------------ Progress: 298 of 300 completed
+Send termination signal to Node: 2
+Recieve from Node: 7 Package: 299
+------------------------------------ Progress: 299 of 300 completed
+Send termination signal to Node: 7
+Recieve from Node: 10 Package: 300
+------------------------------------ Progress: 300 of 300 completed
+Send termination signal to Node: 10
+Program terminates normally, Time: 89.8050000667572 s

@@ -1,0 +1,1093 @@
+Read Parameterfile _inner.dat
+Shot: 171491	Time: 3590ms	gFile: /home/evanp/MAFOT/python/g171491.03590
+Read Er profile: 171491_Er_v1.dat
+Ions are calculated. Charge: Z= 1
+kin. Energy: Ekin= 10keV	rel. gamma-factor: gamma= 1.000005328945147	Mass: M= 2
+Using g-file!
+F-coil: 1	C-coil: 1	I-coil: 1	Bus Error: 0	B-coil Error: 0
+
+I-coil currents:
+-4453	4477	-4431	4296	-4363	4517	
+-4479	4277	-4390	4423	-4437	4443	
+Target: 1
+
+Node: 3 works on Package: 3
+Start Tracer for 800 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+Trax: 700
+Trax: 800
+
+Node: 3 works on Package: 5
+Start Tracer for 800 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+Trax: 700
+Trax: 800
+
+Node: 3 works on Package: 9
+Start Tracer for 800 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+Trax: 700
+Trax: 800
+
+Node: 3 works on Package: 14
+Start Tracer for 800 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+Trax: 700
+Trax: 800
+
+Node: 3 works on Package: 19
+Start Tracer for 800 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+Trax: 700
+Trax: 800
+
+Node: 3 works on Package: 23
+Start Tracer for 800 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+Trax: 700
+Trax: 800
+
+Node: 3 works on Package: 25
+Start Tracer for 800 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+Trax: 700
+Trax: 800
+
+Node: 3 works on Package: 29
+Start Tracer for 800 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+Trax: 700
+Trax: 800
+
+Node: 3 works on Package: 33
+Start Tracer for 800 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+Trax: 700
+Trax: 800
+
+Node: 3 works on Package: 37
+Start Tracer for 800 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+Trax: 700
+Trax: 800
+
+Node: 3 works on Package: 41
+Start Tracer for 800 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+Trax: 700
+Trax: 800
+
+Node: 3 works on Package: 45
+Start Tracer for 800 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+Trax: 700
+Trax: 800
+
+Node: 3 works on Package: 49
+Start Tracer for 800 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+Trax: 700
+Trax: 800
+
+Node: 3 works on Package: 55
+Start Tracer for 800 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+Trax: 700
+Trax: 800
+
+Node: 3 works on Package: 58
+Start Tracer for 800 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+Trax: 700
+Trax: 800
+
+Node: 3 works on Package: 63
+Start Tracer for 800 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+Trax: 700
+Trax: 800
+
+Node: 3 works on Package: 68
+Start Tracer for 800 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+Trax: 700
+Trax: 800
+
+Node: 3 works on Package: 72
+Start Tracer for 800 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+Trax: 700
+Trax: 800
+
+Node: 3 works on Package: 76
+Start Tracer for 800 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+Trax: 700
+Trax: 800
+
+Node: 3 works on Package: 80
+Start Tracer for 800 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+Trax: 700
+Trax: 800
+
+Node: 3 works on Package: 84
+Start Tracer for 800 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+Trax: 700
+Trax: 800
+
+Node: 3 works on Package: 88
+Start Tracer for 800 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+Trax: 700
+Trax: 800
+
+Node: 3 works on Package: 92
+Start Tracer for 800 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+Trax: 700
+Trax: 800
+
+Node: 3 works on Package: 96
+Start Tracer for 800 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+Trax: 700
+Trax: 800
+
+Node: 3 works on Package: 100
+Start Tracer for 800 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+Trax: 700
+Trax: 800
+
+Node: 3 works on Package: 104
+Start Tracer for 800 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+Trax: 700
+Trax: 800
+
+Node: 3 works on Package: 108
+Start Tracer for 800 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+Trax: 700
+Trax: 800
+
+Node: 3 works on Package: 112
+Start Tracer for 800 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+Trax: 700
+Trax: 800
+
+Node: 3 works on Package: 116
+Start Tracer for 800 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+Trax: 700
+Trax: 800
+
+Node: 3 works on Package: 120
+Start Tracer for 800 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+Trax: 700
+Trax: 800
+
+Node: 3 works on Package: 125
+Start Tracer for 800 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+Trax: 700
+Trax: 800
+
+Node: 3 works on Package: 130
+Start Tracer for 800 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+Trax: 700
+Trax: 800
+
+Node: 3 works on Package: 134
+Start Tracer for 800 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+Trax: 700
+Trax: 800
+
+Node: 3 works on Package: 139
+Start Tracer for 800 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+Trax: 700
+Trax: 800
+
+Node: 3 works on Package: 142
+Start Tracer for 800 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+Trax: 700
+Trax: 800
+
+Node: 3 works on Package: 146
+Start Tracer for 800 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+Trax: 700
+Trax: 800
+
+Node: 3 works on Package: 150
+Start Tracer for 800 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+Trax: 700
+Trax: 800
+
+Node: 3 works on Package: 155
+Start Tracer for 800 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+Trax: 700
+Trax: 800
+
+Node: 3 works on Package: 159
+Start Tracer for 800 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+Trax: 700
+Trax: 800
+
+Node: 3 works on Package: 163
+Start Tracer for 800 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+Trax: 700
+Trax: 800
+
+Node: 3 works on Package: 166
+Start Tracer for 800 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+Trax: 700
+Trax: 800
+
+Node: 3 works on Package: 170
+Start Tracer for 800 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+Trax: 700
+Trax: 800
+
+Node: 3 works on Package: 174
+Start Tracer for 800 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+Trax: 700
+Trax: 800
+
+Node: 3 works on Package: 178
+Start Tracer for 800 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+Trax: 700
+Trax: 800
+
+Node: 3 works on Package: 182
+Start Tracer for 800 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+Trax: 700
+Trax: 800
+
+Node: 3 works on Package: 188
+Start Tracer for 800 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+Trax: 700
+Trax: 800
+
+Node: 3 works on Package: 192
+Start Tracer for 800 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+Trax: 700
+Trax: 800
+
+Node: 3 works on Package: 196
+Start Tracer for 800 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+Trax: 700
+Trax: 800
+
+Node: 3 works on Package: 200
+Start Tracer for 800 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+Trax: 700
+Trax: 800
+
+Node: 3 works on Package: 204
+Start Tracer for 800 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+Trax: 700
+Trax: 800
+
+Node: 3 works on Package: 208
+Start Tracer for 800 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+Trax: 700
+Trax: 800
+
+Node: 3 works on Package: 212
+Start Tracer for 800 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+Trax: 700
+Trax: 800
+
+Node: 3 works on Package: 217
+Start Tracer for 800 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+Trax: 700
+Trax: 800
+
+Node: 3 works on Package: 221
+Start Tracer for 800 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+Trax: 700
+Trax: 800
+
+Node: 3 works on Package: 225
+Start Tracer for 800 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+Trax: 700
+Trax: 800
+
+Node: 3 works on Package: 229
+Start Tracer for 800 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+Trax: 700
+Trax: 800
+
+Node: 3 works on Package: 233
+Start Tracer for 800 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+Trax: 700
+Trax: 800
+
+Node: 3 works on Package: 237
+Start Tracer for 800 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+Trax: 700
+Trax: 800
+
+Node: 3 works on Package: 241
+Start Tracer for 800 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+Trax: 700
+Trax: 800
+
+Node: 3 works on Package: 244
+Start Tracer for 800 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+Trax: 700
+Trax: 800
+
+Node: 3 works on Package: 248
+Start Tracer for 800 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+Trax: 700
+Trax: 800
+
+Node: 3 works on Package: 252
+Start Tracer for 800 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+Trax: 700
+Trax: 800
+
+Node: 3 works on Package: 256
+Start Tracer for 800 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+Trax: 700
+Trax: 800
+
+Node: 3 works on Package: 260
+Start Tracer for 800 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+Trax: 700
+Trax: 800
+
+Node: 3 works on Package: 263
+Start Tracer for 800 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+Trax: 700
+Trax: 800
+
+Node: 3 works on Package: 267
+Start Tracer for 800 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+Trax: 700
+Trax: 800
+
+Node: 3 works on Package: 271
+Start Tracer for 800 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+Trax: 700
+Trax: 800
+
+Node: 3 works on Package: 275
+Start Tracer for 800 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+Trax: 700
+Trax: 800
+
+Node: 3 works on Package: 280
+Start Tracer for 800 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+Trax: 700
+Trax: 800
+
+Node: 3 works on Package: 284
+Start Tracer for 800 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+Trax: 700
+Trax: 800
+
+Node: 3 works on Package: 288
+Start Tracer for 800 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+Trax: 700
+Trax: 800
+
+Node: 3 works on Package: 293
+Start Tracer for 800 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+Trax: 700
+Trax: 800
+
+Node: 3 works on Package: 298
+Start Tracer for 800 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+Trax: 700
+Trax: 800
+
+Node: 3 works on Package: 302
+Start Tracer for 800 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+Trax: 700
+Trax: 800
+
+Node: 3 works on Package: 305
+Start Tracer for 800 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+Trax: 700
+Trax: 800
+
+Node: 3 works on Package: 309
+Start Tracer for 800 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+Trax: 700
+Trax: 800
+
+Node: 3 works on Package: 313
+Start Tracer for 800 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+Trax: 700
+Trax: 800
+
+Node: 3 works on Package: 317
+Start Tracer for 800 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+Trax: 700
+Trax: 800
+
+Node: 3 works on Package: 323
+Start Tracer for 800 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+Trax: 700
+Trax: 800
+
+Node: 3 works on Package: 327
+Start Tracer for 800 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+Trax: 700
+Trax: 800
+
+Node: 3 works on Package: 331
+Start Tracer for 800 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+Trax: 700
+Trax: 800
+
+Node: 3 works on Package: 334
+Start Tracer for 800 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+Trax: 700
+Trax: 800
+
+Node: 3 works on Package: 338
+Start Tracer for 800 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+Trax: 700
+Trax: 800
+
+Node: 3 works on Package: 343
+Start Tracer for 800 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+Trax: 700
+Trax: 800
+
+Node: 3 works on Package: 348
+Start Tracer for 800 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+Trax: 700
+Trax: 800
+
+Node: 3 works on Package: 351
+Start Tracer for 800 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+Trax: 700
+Trax: 800
+
+Node: 3 works on Package: 355
+Start Tracer for 800 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+Trax: 700
+Trax: 800
+
+Node: 3 works on Package: 359
+Start Tracer for 800 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+Trax: 700
+Trax: 800
+
+Node: 3 works on Package: 363
+Start Tracer for 800 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+Trax: 700
+Trax: 800
+
+Node: 3 works on Package: 367
+Start Tracer for 800 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+Trax: 700
+Trax: 800
+
+Node: 3 works on Package: 371
+Start Tracer for 800 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+Trax: 700
+Trax: 800
+
+Node: 3 works on Package: 376
+Start Tracer for 800 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+Trax: 700
+Trax: 800
+
+Node: 3 works on Package: 379
+Start Tracer for 800 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+Trax: 700
+Trax: 800
+
+Node: 3 works on Package: 383
+Start Tracer for 800 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+Trax: 700
+Trax: 800
+
+Node: 3 works on Package: 387
+Start Tracer for 800 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+Trax: 700
+Trax: 800
+
+Node: 3 works on Package: 391
+Start Tracer for 800 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+Trax: 700
+Trax: 800
+
+Node: 3 works on Package: 395
+Start Tracer for 800 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+Trax: 700
+Trax: 800
+
+Node: 3 works on Package: 400
+Start Tracer for 800 points ... 
+Trax: 100
+Trax: 200
+Trax: 300
+Trax: 400
+Trax: 500
+Trax: 600
+Trax: 700
+Trax: 800
+
+Node: 3 works on Package: 0
+Program terminates normally, Time: 7577.576000213623 s

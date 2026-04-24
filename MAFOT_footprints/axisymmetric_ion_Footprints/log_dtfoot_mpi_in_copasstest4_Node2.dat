@@ -1,0 +1,75 @@
+Read Parameterfile _inner.dat
+Shot: 171491	Time: 3590ms	gFile: /home/evanp/MAFOT/python/g171491.03590
+Read Er profile: 171491_Er_v1.dat
+Ions are calculated. Charge: Z= 1
+kin. Energy: Ekin= 10keV	rel. gamma-factor: gamma= 1.000005328945147	Mass: M= 2
+Using g-file!
+F-coil: 1	C-coil: 1	I-coil: 1	Bus Error: 0	B-coil Error: 0
+
+I-coil currents:
+-4453	4477	-4431	4296	-4363	4517	
+-4479	4277	-4390	4423	-4437	4443	
+Target: 1
+
+Node: 2 works on Package: 2
+Start Tracer for 100 points ... 
+Trax: 100
+
+Node: 2 works on Package: 6
+Start Tracer for 100 points ... 
+Trax: 100
+
+Node: 2 works on Package: 11
+Start Tracer for 100 points ... 
+Trax: 100
+
+Node: 2 works on Package: 15
+Start Tracer for 100 points ... 
+Trax: 100
+
+Node: 2 works on Package: 18
+Start Tracer for 100 points ... 
+Trax: 100
+
+Node: 2 works on Package: 22
+Start Tracer for 100 points ... 
+Trax: 100
+
+Node: 2 works on Package: 26
+Start Tracer for 100 points ... 
+Trax: 100
+
+Node: 2 works on Package: 30
+Start Tracer for 100 points ... 
+Trax: 100
+
+Node: 2 works on Package: 34
+Start Tracer for 100 points ... 
+Trax: 100
+
+Node: 2 works on Package: 36
+Start Tracer for 100 points ... 
+Trax: 100
+
+Node: 2 works on Package: 40
+Start Tracer for 100 points ... 
+Trax: 100
+
+Node: 2 works on Package: 41
+Start Tracer for 100 points ... 
+Trax: 100
+
+Node: 2 works on Package: 43
+Start Tracer for 100 points ... 
+Trax: 100
+
+Node: 2 works on Package: 46
+Start Tracer for 100 points ... 
+Trax: 100
+
+Node: 2 works on Package: 49
+Start Tracer for 100 points ... 
+Trax: 100
+
+Node: 2 works on Package: 0
+Program terminates normally, Time: 89.99600005149841 s

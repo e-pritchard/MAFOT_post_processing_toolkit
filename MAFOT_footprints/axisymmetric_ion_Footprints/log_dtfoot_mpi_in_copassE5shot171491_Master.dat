@@ -1,0 +1,1107 @@
+Shot: 171491	Time: 3590ms
+No. of Packages = 400 Points per Package = 800
+
+Start Tracer for 320000 points ... 
+Send Package No.: 1
+Send Package No.: 2
+Send Package No.: 3
+Node: 0 works on Package: 4
+Recieve from Node: 3 Package: 3
+------------------------------------ Progress: 1 of 400 completed
+Send again to Node: 3 Package No.: 5
+Recieve from Node: 2 Package: 2
+------------------------------------ Progress: 2 of 400 completed
+Send again to Node: 2 Package No.: 6
+------------------------------------ Progress: 3 of 400 completed
+Node: 0 works on Package: 7
+Recieve from Node: 1 Package: 1
+------------------------------------ Progress: 4 of 400 completed
+Send again to Node: 1 Package No.: 8
+Recieve from Node: 2 Package: 6
+------------------------------------ Progress: 5 of 400 completed
+Send again to Node: 2 Package No.: 9
+Recieve from Node: 3 Package: 5
+------------------------------------ Progress: 6 of 400 completed
+Send again to Node: 3 Package No.: 10
+------------------------------------ Progress: 7 of 400 completed
+Node: 0 works on Package: 11
+Recieve from Node: 1 Package: 8
+------------------------------------ Progress: 8 of 400 completed
+Send again to Node: 1 Package No.: 12
+Recieve from Node: 2 Package: 9
+------------------------------------ Progress: 9 of 400 completed
+Send again to Node: 2 Package No.: 13
+Recieve from Node: 3 Package: 10
+------------------------------------ Progress: 10 of 400 completed
+Send again to Node: 3 Package No.: 14
+------------------------------------ Progress: 11 of 400 completed
+Node: 0 works on Package: 15
+Recieve from Node: 1 Package: 12
+------------------------------------ Progress: 12 of 400 completed
+Send again to Node: 1 Package No.: 16
+Recieve from Node: 3 Package: 14
+------------------------------------ Progress: 13 of 400 completed
+Send again to Node: 3 Package No.: 17
+Recieve from Node: 2 Package: 13
+------------------------------------ Progress: 14 of 400 completed
+Send again to Node: 2 Package No.: 18
+------------------------------------ Progress: 15 of 400 completed
+Node: 0 works on Package: 19
+Recieve from Node: 1 Package: 16
+------------------------------------ Progress: 16 of 400 completed
+Send again to Node: 1 Package No.: 20
+Recieve from Node: 2 Package: 18
+------------------------------------ Progress: 17 of 400 completed
+Send again to Node: 2 Package No.: 21
+Recieve from Node: 3 Package: 17
+------------------------------------ Progress: 18 of 400 completed
+Send again to Node: 3 Package No.: 22
+------------------------------------ Progress: 19 of 400 completed
+Node: 0 works on Package: 23
+Recieve from Node: 1 Package: 20
+------------------------------------ Progress: 20 of 400 completed
+Send again to Node: 1 Package No.: 24
+Recieve from Node: 3 Package: 22
+------------------------------------ Progress: 21 of 400 completed
+Send again to Node: 3 Package No.: 25
+Recieve from Node: 2 Package: 21
+------------------------------------ Progress: 22 of 400 completed
+Send again to Node: 2 Package No.: 26
+------------------------------------ Progress: 23 of 400 completed
+Node: 0 works on Package: 27
+Recieve from Node: 1 Package: 24
+------------------------------------ Progress: 24 of 400 completed
+Send again to Node: 1 Package No.: 28
+Recieve from Node: 3 Package: 25
+------------------------------------ Progress: 25 of 400 completed
+Send again to Node: 3 Package No.: 29
+Recieve from Node: 2 Package: 26
+------------------------------------ Progress: 26 of 400 completed
+Send again to Node: 2 Package No.: 30
+------------------------------------ Progress: 27 of 400 completed
+Node: 0 works on Package: 31
+Recieve from Node: 1 Package: 28
+------------------------------------ Progress: 28 of 400 completed
+Send again to Node: 1 Package No.: 32
+Recieve from Node: 3 Package: 29
+------------------------------------ Progress: 29 of 400 completed
+Send again to Node: 3 Package No.: 33
+Recieve from Node: 2 Package: 30
+------------------------------------ Progress: 30 of 400 completed
+Send again to Node: 2 Package No.: 34
+------------------------------------ Progress: 31 of 400 completed
+Node: 0 works on Package: 35
+Recieve from Node: 1 Package: 32
+------------------------------------ Progress: 32 of 400 completed
+Send again to Node: 1 Package No.: 36
+Recieve from Node: 3 Package: 33
+------------------------------------ Progress: 33 of 400 completed
+Send again to Node: 3 Package No.: 37
+------------------------------------ Progress: 34 of 400 completed
+Node: 0 works on Package: 38
+Recieve from Node: 2 Package: 34
+------------------------------------ Progress: 35 of 400 completed
+Send again to Node: 2 Package No.: 39
+Recieve from Node: 1 Package: 36
+------------------------------------ Progress: 36 of 400 completed
+Send again to Node: 1 Package No.: 40
+Recieve from Node: 3 Package: 37
+------------------------------------ Progress: 37 of 400 completed
+Send again to Node: 3 Package No.: 41
+------------------------------------ Progress: 38 of 400 completed
+Node: 0 works on Package: 42
+Recieve from Node: 1 Package: 40
+------------------------------------ Progress: 39 of 400 completed
+Send again to Node: 1 Package No.: 43
+Recieve from Node: 2 Package: 39
+------------------------------------ Progress: 40 of 400 completed
+Send again to Node: 2 Package No.: 44
+Recieve from Node: 3 Package: 41
+------------------------------------ Progress: 41 of 400 completed
+Send again to Node: 3 Package No.: 45
+------------------------------------ Progress: 42 of 400 completed
+Node: 0 works on Package: 46
+Recieve from Node: 2 Package: 44
+------------------------------------ Progress: 43 of 400 completed
+Send again to Node: 2 Package No.: 47
+Recieve from Node: 1 Package: 43
+------------------------------------ Progress: 44 of 400 completed
+Send again to Node: 1 Package No.: 48
+Recieve from Node: 3 Package: 45
+------------------------------------ Progress: 45 of 400 completed
+Send again to Node: 3 Package No.: 49
+------------------------------------ Progress: 46 of 400 completed
+Node: 0 works on Package: 50
+Recieve from Node: 2 Package: 47
+------------------------------------ Progress: 47 of 400 completed
+Send again to Node: 2 Package No.: 51
+Recieve from Node: 1 Package: 48
+------------------------------------ Progress: 48 of 400 completed
+Send again to Node: 1 Package No.: 52
+Recieve from Node: 3 Package: 49
+------------------------------------ Progress: 49 of 400 completed
+Send again to Node: 3 Package No.: 53
+Recieve from Node: 2 Package: 51
+------------------------------------ Progress: 50 of 400 completed
+Send again to Node: 2 Package No.: 54
+------------------------------------ Progress: 51 of 400 completed
+Node: 0 works on Package: 55
+Recieve from Node: 1 Package: 52
+------------------------------------ Progress: 52 of 400 completed
+Send again to Node: 1 Package No.: 56
+Recieve from Node: 3 Package: 53
+------------------------------------ Progress: 53 of 400 completed
+Send again to Node: 3 Package No.: 57
+Recieve from Node: 2 Package: 54
+------------------------------------ Progress: 54 of 400 completed
+Send again to Node: 2 Package No.: 58
+------------------------------------ Progress: 55 of 400 completed
+Node: 0 works on Package: 59
+Recieve from Node: 1 Package: 56
+------------------------------------ Progress: 56 of 400 completed
+Send again to Node: 1 Package No.: 60
+Recieve from Node: 3 Package: 57
+------------------------------------ Progress: 57 of 400 completed
+Send again to Node: 3 Package No.: 61
+Recieve from Node: 2 Package: 58
+------------------------------------ Progress: 58 of 400 completed
+Send again to Node: 2 Package No.: 62
+------------------------------------ Progress: 59 of 400 completed
+Node: 0 works on Package: 63
+Recieve from Node: 1 Package: 60
+------------------------------------ Progress: 60 of 400 completed
+Send again to Node: 1 Package No.: 64
+Recieve from Node: 3 Package: 61
+------------------------------------ Progress: 61 of 400 completed
+Send again to Node: 3 Package No.: 65
+Recieve from Node: 2 Package: 62
+------------------------------------ Progress: 62 of 400 completed
+Send again to Node: 2 Package No.: 66
+------------------------------------ Progress: 63 of 400 completed
+Node: 0 works on Package: 67
+Recieve from Node: 1 Package: 64
+------------------------------------ Progress: 64 of 400 completed
+Send again to Node: 1 Package No.: 68
+Recieve from Node: 3 Package: 65
+------------------------------------ Progress: 65 of 400 completed
+Send again to Node: 3 Package No.: 69
+Recieve from Node: 2 Package: 66
+------------------------------------ Progress: 66 of 400 completed
+Send again to Node: 2 Package No.: 70
+------------------------------------ Progress: 67 of 400 completed
+Node: 0 works on Package: 71
+Recieve from Node: 1 Package: 68
+------------------------------------ Progress: 68 of 400 completed
+Send again to Node: 1 Package No.: 72
+Recieve from Node: 3 Package: 69
+------------------------------------ Progress: 69 of 400 completed
+Send again to Node: 3 Package No.: 73
+Recieve from Node: 2 Package: 70
+------------------------------------ Progress: 70 of 400 completed
+Send again to Node: 2 Package No.: 74
+------------------------------------ Progress: 71 of 400 completed
+Node: 0 works on Package: 75
+Recieve from Node: 1 Package: 72
+------------------------------------ Progress: 72 of 400 completed
+Send again to Node: 1 Package No.: 76
+Recieve from Node: 3 Package: 73
+------------------------------------ Progress: 73 of 400 completed
+Send again to Node: 3 Package No.: 77
+Recieve from Node: 2 Package: 74
+------------------------------------ Progress: 74 of 400 completed
+Send again to Node: 2 Package No.: 78
+------------------------------------ Progress: 75 of 400 completed
+Node: 0 works on Package: 79
+Recieve from Node: 1 Package: 76
+------------------------------------ Progress: 76 of 400 completed
+Send again to Node: 1 Package No.: 80
+Recieve from Node: 3 Package: 77
+------------------------------------ Progress: 77 of 400 completed
+Send again to Node: 3 Package No.: 81
+Recieve from Node: 2 Package: 78
+------------------------------------ Progress: 78 of 400 completed
+Send again to Node: 2 Package No.: 82
+------------------------------------ Progress: 79 of 400 completed
+Node: 0 works on Package: 83
+Recieve from Node: 1 Package: 80
+------------------------------------ Progress: 80 of 400 completed
+Send again to Node: 1 Package No.: 84
+Recieve from Node: 3 Package: 81
+------------------------------------ Progress: 81 of 400 completed
+Send again to Node: 3 Package No.: 85
+Recieve from Node: 2 Package: 82
+------------------------------------ Progress: 82 of 400 completed
+Send again to Node: 2 Package No.: 86
+------------------------------------ Progress: 83 of 400 completed
+Node: 0 works on Package: 87
+Recieve from Node: 1 Package: 84
+------------------------------------ Progress: 84 of 400 completed
+Send again to Node: 1 Package No.: 88
+Recieve from Node: 3 Package: 85
+------------------------------------ Progress: 85 of 400 completed
+Send again to Node: 3 Package No.: 89
+Recieve from Node: 2 Package: 86
+------------------------------------ Progress: 86 of 400 completed
+Send again to Node: 2 Package No.: 90
+------------------------------------ Progress: 87 of 400 completed
+Node: 0 works on Package: 91
+Recieve from Node: 1 Package: 88
+------------------------------------ Progress: 88 of 400 completed
+Send again to Node: 1 Package No.: 92
+Recieve from Node: 3 Package: 89
+------------------------------------ Progress: 89 of 400 completed
+Send again to Node: 3 Package No.: 93
+Recieve from Node: 2 Package: 90
+------------------------------------ Progress: 90 of 400 completed
+Send again to Node: 2 Package No.: 94
+------------------------------------ Progress: 91 of 400 completed
+Node: 0 works on Package: 95
+Recieve from Node: 1 Package: 92
+------------------------------------ Progress: 92 of 400 completed
+Send again to Node: 1 Package No.: 96
+Recieve from Node: 3 Package: 93
+------------------------------------ Progress: 93 of 400 completed
+Send again to Node: 3 Package No.: 97
+Recieve from Node: 2 Package: 94
+------------------------------------ Progress: 94 of 400 completed
+Send again to Node: 2 Package No.: 98
+------------------------------------ Progress: 95 of 400 completed
+Node: 0 works on Package: 99
+Recieve from Node: 1 Package: 96
+------------------------------------ Progress: 96 of 400 completed
+Send again to Node: 1 Package No.: 100
+Recieve from Node: 3 Package: 97
+------------------------------------ Progress: 97 of 400 completed
+Send again to Node: 3 Package No.: 101
+Recieve from Node: 2 Package: 98
+------------------------------------ Progress: 98 of 400 completed
+Send again to Node: 2 Package No.: 102
+------------------------------------ Progress: 99 of 400 completed
+Node: 0 works on Package: 103
+Recieve from Node: 1 Package: 100
+------------------------------------ Progress: 100 of 400 completed
+Send again to Node: 1 Package No.: 104
+Recieve from Node: 3 Package: 101
+------------------------------------ Progress: 101 of 400 completed
+Send again to Node: 3 Package No.: 105
+Recieve from Node: 2 Package: 102
+------------------------------------ Progress: 102 of 400 completed
+Send again to Node: 2 Package No.: 106
+------------------------------------ Progress: 103 of 400 completed
+Node: 0 works on Package: 107
+Recieve from Node: 1 Package: 104
+------------------------------------ Progress: 104 of 400 completed
+Send again to Node: 1 Package No.: 108
+Recieve from Node: 3 Package: 105
+------------------------------------ Progress: 105 of 400 completed
+Send again to Node: 3 Package No.: 109
+Recieve from Node: 2 Package: 106
+------------------------------------ Progress: 106 of 400 completed
+Send again to Node: 2 Package No.: 110
+------------------------------------ Progress: 107 of 400 completed
+Node: 0 works on Package: 111
+Recieve from Node: 1 Package: 108
+------------------------------------ Progress: 108 of 400 completed
+Send again to Node: 1 Package No.: 112
+Recieve from Node: 3 Package: 109
+------------------------------------ Progress: 109 of 400 completed
+Send again to Node: 3 Package No.: 113
+Recieve from Node: 2 Package: 110
+------------------------------------ Progress: 110 of 400 completed
+Send again to Node: 2 Package No.: 114
+------------------------------------ Progress: 111 of 400 completed
+Node: 0 works on Package: 115
+Recieve from Node: 1 Package: 112
+------------------------------------ Progress: 112 of 400 completed
+Send again to Node: 1 Package No.: 116
+Recieve from Node: 3 Package: 113
+------------------------------------ Progress: 113 of 400 completed
+Send again to Node: 3 Package No.: 117
+Recieve from Node: 2 Package: 114
+------------------------------------ Progress: 114 of 400 completed
+Send again to Node: 2 Package No.: 118
+------------------------------------ Progress: 115 of 400 completed
+Node: 0 works on Package: 119
+Recieve from Node: 1 Package: 116
+------------------------------------ Progress: 116 of 400 completed
+Send again to Node: 1 Package No.: 120
+Recieve from Node: 3 Package: 117
+------------------------------------ Progress: 117 of 400 completed
+Send again to Node: 3 Package No.: 121
+Recieve from Node: 2 Package: 118
+------------------------------------ Progress: 118 of 400 completed
+Send again to Node: 2 Package No.: 122
+------------------------------------ Progress: 119 of 400 completed
+Node: 0 works on Package: 123
+Recieve from Node: 1 Package: 120
+------------------------------------ Progress: 120 of 400 completed
+Send again to Node: 1 Package No.: 124
+Recieve from Node: 3 Package: 121
+------------------------------------ Progress: 121 of 400 completed
+Send again to Node: 3 Package No.: 125
+Recieve from Node: 2 Package: 122
+------------------------------------ Progress: 122 of 400 completed
+Send again to Node: 2 Package No.: 126
+------------------------------------ Progress: 123 of 400 completed
+Node: 0 works on Package: 127
+Recieve from Node: 1 Package: 124
+------------------------------------ Progress: 124 of 400 completed
+Send again to Node: 1 Package No.: 128
+Recieve from Node: 3 Package: 125
+------------------------------------ Progress: 125 of 400 completed
+Send again to Node: 3 Package No.: 129
+Recieve from Node: 2 Package: 126
+------------------------------------ Progress: 126 of 400 completed
+Send again to Node: 2 Package No.: 130
+------------------------------------ Progress: 127 of 400 completed
+Node: 0 works on Package: 131
+Recieve from Node: 1 Package: 128
+------------------------------------ Progress: 128 of 400 completed
+Send again to Node: 1 Package No.: 132
+Recieve from Node: 3 Package: 129
+------------------------------------ Progress: 129 of 400 completed
+Send again to Node: 3 Package No.: 133
+Recieve from Node: 2 Package: 130
+------------------------------------ Progress: 130 of 400 completed
+Send again to Node: 2 Package No.: 134
+------------------------------------ Progress: 131 of 400 completed
+Node: 0 works on Package: 135
+Recieve from Node: 1 Package: 132
+------------------------------------ Progress: 132 of 400 completed
+Send again to Node: 1 Package No.: 136
+Recieve from Node: 2 Package: 134
+------------------------------------ Progress: 133 of 400 completed
+Send again to Node: 2 Package No.: 137
+Recieve from Node: 3 Package: 133
+------------------------------------ Progress: 134 of 400 completed
+Send again to Node: 3 Package No.: 138
+------------------------------------ Progress: 135 of 400 completed
+Node: 0 works on Package: 139
+Recieve from Node: 1 Package: 136
+------------------------------------ Progress: 136 of 400 completed
+Send again to Node: 1 Package No.: 140
+Recieve from Node: 2 Package: 137
+------------------------------------ Progress: 137 of 400 completed
+Send again to Node: 2 Package No.: 141
+Recieve from Node: 3 Package: 138
+------------------------------------ Progress: 138 of 400 completed
+Send again to Node: 3 Package No.: 142
+Recieve from Node: 1 Package: 140
+------------------------------------ Progress: 139 of 400 completed
+Send again to Node: 1 Package No.: 143
+------------------------------------ Progress: 140 of 400 completed
+Node: 0 works on Package: 144
+Recieve from Node: 2 Package: 141
+------------------------------------ Progress: 141 of 400 completed
+Send again to Node: 2 Package No.: 145
+Recieve from Node: 3 Package: 142
+------------------------------------ Progress: 142 of 400 completed
+Send again to Node: 3 Package No.: 146
+Recieve from Node: 1 Package: 143
+------------------------------------ Progress: 143 of 400 completed
+Send again to Node: 1 Package No.: 147
+------------------------------------ Progress: 144 of 400 completed
+Node: 0 works on Package: 148
+Recieve from Node: 2 Package: 145
+------------------------------------ Progress: 145 of 400 completed
+Send again to Node: 2 Package No.: 149
+Recieve from Node: 3 Package: 146
+------------------------------------ Progress: 146 of 400 completed
+Send again to Node: 3 Package No.: 150
+Recieve from Node: 1 Package: 147
+------------------------------------ Progress: 147 of 400 completed
+Send again to Node: 1 Package No.: 151
+------------------------------------ Progress: 148 of 400 completed
+Node: 0 works on Package: 152
+Recieve from Node: 2 Package: 149
+------------------------------------ Progress: 149 of 400 completed
+Send again to Node: 2 Package No.: 153
+Recieve from Node: 3 Package: 150
+------------------------------------ Progress: 150 of 400 completed
+Send again to Node: 3 Package No.: 154
+Recieve from Node: 1 Package: 151
+------------------------------------ Progress: 151 of 400 completed
+Send again to Node: 1 Package No.: 155
+------------------------------------ Progress: 152 of 400 completed
+Node: 0 works on Package: 156
+Recieve from Node: 3 Package: 154
+------------------------------------ Progress: 153 of 400 completed
+Send again to Node: 3 Package No.: 157
+Recieve from Node: 2 Package: 153
+------------------------------------ Progress: 154 of 400 completed
+Send again to Node: 2 Package No.: 158
+Recieve from Node: 1 Package: 155
+------------------------------------ Progress: 155 of 400 completed
+Send again to Node: 1 Package No.: 159
+------------------------------------ Progress: 156 of 400 completed
+Node: 0 works on Package: 160
+Recieve from Node: 3 Package: 157
+------------------------------------ Progress: 157 of 400 completed
+Send again to Node: 3 Package No.: 161
+Recieve from Node: 2 Package: 158
+------------------------------------ Progress: 158 of 400 completed
+Send again to Node: 2 Package No.: 162
+Recieve from Node: 1 Package: 159
+------------------------------------ Progress: 159 of 400 completed
+Send again to Node: 1 Package No.: 163
+------------------------------------ Progress: 160 of 400 completed
+Node: 0 works on Package: 164
+Recieve from Node: 3 Package: 161
+------------------------------------ Progress: 161 of 400 completed
+Send again to Node: 3 Package No.: 165
+Recieve from Node: 1 Package: 163
+------------------------------------ Progress: 162 of 400 completed
+Send again to Node: 1 Package No.: 166
+Recieve from Node: 2 Package: 162
+------------------------------------ Progress: 163 of 400 completed
+Send again to Node: 2 Package No.: 167
+------------------------------------ Progress: 164 of 400 completed
+Node: 0 works on Package: 168
+Recieve from Node: 3 Package: 165
+------------------------------------ Progress: 165 of 400 completed
+Send again to Node: 3 Package No.: 169
+Recieve from Node: 1 Package: 166
+------------------------------------ Progress: 166 of 400 completed
+Send again to Node: 1 Package No.: 170
+Recieve from Node: 2 Package: 167
+------------------------------------ Progress: 167 of 400 completed
+Send again to Node: 2 Package No.: 171
+------------------------------------ Progress: 168 of 400 completed
+Node: 0 works on Package: 172
+Recieve from Node: 3 Package: 169
+------------------------------------ Progress: 169 of 400 completed
+Send again to Node: 3 Package No.: 173
+Recieve from Node: 1 Package: 170
+------------------------------------ Progress: 170 of 400 completed
+Send again to Node: 1 Package No.: 174
+------------------------------------ Progress: 171 of 400 completed
+Node: 0 works on Package: 175
+Recieve from Node: 2 Package: 171
+------------------------------------ Progress: 172 of 400 completed
+Send again to Node: 2 Package No.: 176
+Recieve from Node: 3 Package: 173
+------------------------------------ Progress: 173 of 400 completed
+Send again to Node: 3 Package No.: 177
+Recieve from Node: 1 Package: 174
+------------------------------------ Progress: 174 of 400 completed
+Send again to Node: 1 Package No.: 178
+------------------------------------ Progress: 175 of 400 completed
+Node: 0 works on Package: 179
+Recieve from Node: 2 Package: 176
+------------------------------------ Progress: 176 of 400 completed
+Send again to Node: 2 Package No.: 180
+Recieve from Node: 3 Package: 177
+------------------------------------ Progress: 177 of 400 completed
+Send again to Node: 3 Package No.: 181
+Recieve from Node: 1 Package: 178
+------------------------------------ Progress: 178 of 400 completed
+Send again to Node: 1 Package No.: 182
+------------------------------------ Progress: 179 of 400 completed
+Node: 0 works on Package: 183
+Recieve from Node: 2 Package: 180
+------------------------------------ Progress: 180 of 400 completed
+Send again to Node: 2 Package No.: 184
+Recieve from Node: 3 Package: 181
+------------------------------------ Progress: 181 of 400 completed
+Send again to Node: 3 Package No.: 185
+Recieve from Node: 1 Package: 182
+------------------------------------ Progress: 182 of 400 completed
+Send again to Node: 1 Package No.: 186
+------------------------------------ Progress: 183 of 400 completed
+Node: 0 works on Package: 187
+Recieve from Node: 2 Package: 184
+------------------------------------ Progress: 184 of 400 completed
+Send again to Node: 2 Package No.: 188
+Recieve from Node: 3 Package: 185
+------------------------------------ Progress: 185 of 400 completed
+Send again to Node: 3 Package No.: 189
+Recieve from Node: 1 Package: 186
+------------------------------------ Progress: 186 of 400 completed
+Send again to Node: 1 Package No.: 190
+Recieve from Node: 2 Package: 188
+------------------------------------ Progress: 187 of 400 completed
+Send again to Node: 2 Package No.: 191
+------------------------------------ Progress: 188 of 400 completed
+Node: 0 works on Package: 192
+Recieve from Node: 3 Package: 189
+------------------------------------ Progress: 189 of 400 completed
+Send again to Node: 3 Package No.: 193
+Recieve from Node: 1 Package: 190
+------------------------------------ Progress: 190 of 400 completed
+Send again to Node: 1 Package No.: 194
+Recieve from Node: 2 Package: 191
+------------------------------------ Progress: 191 of 400 completed
+Send again to Node: 2 Package No.: 195
+Recieve from Node: 3 Package: 193
+------------------------------------ Progress: 192 of 400 completed
+Send again to Node: 3 Package No.: 196
+------------------------------------ Progress: 193 of 400 completed
+Node: 0 works on Package: 197
+Recieve from Node: 1 Package: 194
+------------------------------------ Progress: 194 of 400 completed
+Send again to Node: 1 Package No.: 198
+Recieve from Node: 2 Package: 195
+------------------------------------ Progress: 195 of 400 completed
+Send again to Node: 2 Package No.: 199
+Recieve from Node: 3 Package: 196
+------------------------------------ Progress: 196 of 400 completed
+Send again to Node: 3 Package No.: 200
+------------------------------------ Progress: 197 of 400 completed
+Node: 0 works on Package: 201
+Recieve from Node: 1 Package: 198
+------------------------------------ Progress: 198 of 400 completed
+Send again to Node: 1 Package No.: 202
+Recieve from Node: 3 Package: 200
+------------------------------------ Progress: 199 of 400 completed
+Send again to Node: 3 Package No.: 203
+------------------------------------ Progress: 200 of 400 completed
+Node: 0 works on Package: 204
+Recieve from Node: 2 Package: 199
+------------------------------------ Progress: 201 of 400 completed
+Send again to Node: 2 Package No.: 205
+Recieve from Node: 1 Package: 202
+------------------------------------ Progress: 202 of 400 completed
+Send again to Node: 1 Package No.: 206
+------------------------------------ Progress: 203 of 400 completed
+Node: 0 works on Package: 207
+Recieve from Node: 3 Package: 203
+------------------------------------ Progress: 204 of 400 completed
+Send again to Node: 3 Package No.: 208
+Recieve from Node: 2 Package: 205
+------------------------------------ Progress: 205 of 400 completed
+Send again to Node: 2 Package No.: 209
+Recieve from Node: 1 Package: 206
+------------------------------------ Progress: 206 of 400 completed
+Send again to Node: 1 Package No.: 210
+Recieve from Node: 2 Package: 209
+------------------------------------ Progress: 207 of 400 completed
+Send again to Node: 2 Package No.: 211
+------------------------------------ Progress: 208 of 400 completed
+Node: 0 works on Package: 212
+Recieve from Node: 3 Package: 208
+------------------------------------ Progress: 209 of 400 completed
+Send again to Node: 3 Package No.: 213
+Recieve from Node: 1 Package: 210
+------------------------------------ Progress: 210 of 400 completed
+Send again to Node: 1 Package No.: 214
+------------------------------------ Progress: 211 of 400 completed
+Node: 0 works on Package: 215
+Recieve from Node: 3 Package: 213
+------------------------------------ Progress: 212 of 400 completed
+Send again to Node: 3 Package No.: 216
+Recieve from Node: 2 Package: 211
+------------------------------------ Progress: 213 of 400 completed
+Send again to Node: 2 Package No.: 217
+Recieve from Node: 1 Package: 214
+------------------------------------ Progress: 214 of 400 completed
+Send again to Node: 1 Package No.: 218
+------------------------------------ Progress: 215 of 400 completed
+Node: 0 works on Package: 219
+Recieve from Node: 3 Package: 216
+------------------------------------ Progress: 216 of 400 completed
+Send again to Node: 3 Package No.: 220
+Recieve from Node: 2 Package: 217
+------------------------------------ Progress: 217 of 400 completed
+Send again to Node: 2 Package No.: 221
+Recieve from Node: 1 Package: 218
+------------------------------------ Progress: 218 of 400 completed
+Send again to Node: 1 Package No.: 222
+Recieve from Node: 3 Package: 220
+------------------------------------ Progress: 219 of 400 completed
+Send again to Node: 3 Package No.: 223
+------------------------------------ Progress: 220 of 400 completed
+Node: 0 works on Package: 224
+Recieve from Node: 2 Package: 221
+------------------------------------ Progress: 221 of 400 completed
+Send again to Node: 2 Package No.: 225
+Recieve from Node: 1 Package: 222
+------------------------------------ Progress: 222 of 400 completed
+Send again to Node: 1 Package No.: 226
+------------------------------------ Progress: 223 of 400 completed
+Node: 0 works on Package: 227
+Recieve from Node: 3 Package: 223
+------------------------------------ Progress: 224 of 400 completed
+Send again to Node: 3 Package No.: 228
+Recieve from Node: 1 Package: 226
+------------------------------------ Progress: 225 of 400 completed
+Send again to Node: 1 Package No.: 229
+Recieve from Node: 2 Package: 225
+------------------------------------ Progress: 226 of 400 completed
+Send again to Node: 2 Package No.: 230
+Recieve from Node: 3 Package: 228
+------------------------------------ Progress: 227 of 400 completed
+Send again to Node: 3 Package No.: 231
+------------------------------------ Progress: 228 of 400 completed
+Node: 0 works on Package: 232
+Recieve from Node: 1 Package: 229
+------------------------------------ Progress: 229 of 400 completed
+Send again to Node: 1 Package No.: 233
+Recieve from Node: 2 Package: 230
+------------------------------------ Progress: 230 of 400 completed
+Send again to Node: 2 Package No.: 234
+Recieve from Node: 1 Package: 233
+------------------------------------ Progress: 231 of 400 completed
+Send again to Node: 1 Package No.: 235
+Recieve from Node: 3 Package: 231
+------------------------------------ Progress: 232 of 400 completed
+Send again to Node: 3 Package No.: 236
+------------------------------------ Progress: 233 of 400 completed
+Node: 0 works on Package: 237
+Recieve from Node: 2 Package: 234
+------------------------------------ Progress: 234 of 400 completed
+Send again to Node: 2 Package No.: 238
+Recieve from Node: 1 Package: 235
+------------------------------------ Progress: 235 of 400 completed
+Send again to Node: 1 Package No.: 239
+Recieve from Node: 3 Package: 236
+------------------------------------ Progress: 236 of 400 completed
+Send again to Node: 3 Package No.: 240
+Recieve from Node: 2 Package: 238
+------------------------------------ Progress: 237 of 400 completed
+Send again to Node: 2 Package No.: 241
+------------------------------------ Progress: 238 of 400 completed
+Node: 0 works on Package: 242
+Recieve from Node: 1 Package: 239
+------------------------------------ Progress: 239 of 400 completed
+Send again to Node: 1 Package No.: 243
+Recieve from Node: 2 Package: 241
+------------------------------------ Progress: 240 of 400 completed
+Send again to Node: 2 Package No.: 244
+------------------------------------ Progress: 241 of 400 completed
+Node: 0 works on Package: 245
+Recieve from Node: 3 Package: 240
+------------------------------------ Progress: 242 of 400 completed
+Send again to Node: 3 Package No.: 246
+Recieve from Node: 2 Package: 244
+------------------------------------ Progress: 243 of 400 completed
+Send again to Node: 2 Package No.: 247
+------------------------------------ Progress: 244 of 400 completed
+Node: 0 works on Package: 248
+Recieve from Node: 1 Package: 243
+------------------------------------ Progress: 245 of 400 completed
+Send again to Node: 1 Package No.: 249
+Recieve from Node: 3 Package: 246
+------------------------------------ Progress: 246 of 400 completed
+Send again to Node: 3 Package No.: 250
+Recieve from Node: 2 Package: 247
+------------------------------------ Progress: 247 of 400 completed
+Send again to Node: 2 Package No.: 251
+------------------------------------ Progress: 248 of 400 completed
+Node: 0 works on Package: 252
+Recieve from Node: 3 Package: 250
+------------------------------------ Progress: 249 of 400 completed
+Send again to Node: 3 Package No.: 253
+Recieve from Node: 1 Package: 249
+------------------------------------ Progress: 250 of 400 completed
+Send again to Node: 1 Package No.: 254
+Recieve from Node: 2 Package: 251
+------------------------------------ Progress: 251 of 400 completed
+Send again to Node: 2 Package No.: 255
+Recieve from Node: 1 Package: 254
+------------------------------------ Progress: 252 of 400 completed
+Send again to Node: 1 Package No.: 256
+Recieve from Node: 3 Package: 253
+------------------------------------ Progress: 253 of 400 completed
+Send again to Node: 3 Package No.: 257
+------------------------------------ Progress: 254 of 400 completed
+Node: 0 works on Package: 258
+Recieve from Node: 2 Package: 255
+------------------------------------ Progress: 255 of 400 completed
+Send again to Node: 2 Package No.: 259
+Recieve from Node: 1 Package: 256
+------------------------------------ Progress: 256 of 400 completed
+Send again to Node: 1 Package No.: 260
+Recieve from Node: 3 Package: 257
+------------------------------------ Progress: 257 of 400 completed
+Send again to Node: 3 Package No.: 261
+------------------------------------ Progress: 258 of 400 completed
+Node: 0 works on Package: 262
+Recieve from Node: 2 Package: 259
+------------------------------------ Progress: 259 of 400 completed
+Send again to Node: 2 Package No.: 263
+Recieve from Node: 3 Package: 261
+------------------------------------ Progress: 260 of 400 completed
+Send again to Node: 3 Package No.: 264
+Recieve from Node: 1 Package: 260
+------------------------------------ Progress: 261 of 400 completed
+Send again to Node: 1 Package No.: 265
+------------------------------------ Progress: 262 of 400 completed
+Node: 0 works on Package: 266
+Recieve from Node: 2 Package: 263
+------------------------------------ Progress: 263 of 400 completed
+Send again to Node: 2 Package No.: 267
+Recieve from Node: 1 Package: 265
+------------------------------------ Progress: 264 of 400 completed
+Send again to Node: 1 Package No.: 268
+Recieve from Node: 3 Package: 264
+------------------------------------ Progress: 265 of 400 completed
+Send again to Node: 3 Package No.: 269
+------------------------------------ Progress: 266 of 400 completed
+Node: 0 works on Package: 270
+Recieve from Node: 2 Package: 267
+------------------------------------ Progress: 267 of 400 completed
+Send again to Node: 2 Package No.: 271
+Recieve from Node: 3 Package: 269
+------------------------------------ Progress: 268 of 400 completed
+Send again to Node: 3 Package No.: 272
+------------------------------------ Progress: 269 of 400 completed
+Node: 0 works on Package: 273
+Recieve from Node: 1 Package: 268
+------------------------------------ Progress: 270 of 400 completed
+Send again to Node: 1 Package No.: 274
+Recieve from Node: 2 Package: 271
+------------------------------------ Progress: 271 of 400 completed
+Send again to Node: 2 Package No.: 275
+Recieve from Node: 3 Package: 272
+------------------------------------ Progress: 272 of 400 completed
+Send again to Node: 3 Package No.: 276
+------------------------------------ Progress: 273 of 400 completed
+Node: 0 works on Package: 277
+Recieve from Node: 1 Package: 274
+------------------------------------ Progress: 274 of 400 completed
+Send again to Node: 1 Package No.: 278
+Recieve from Node: 2 Package: 275
+------------------------------------ Progress: 275 of 400 completed
+Send again to Node: 2 Package No.: 279
+Recieve from Node: 3 Package: 276
+------------------------------------ Progress: 276 of 400 completed
+Send again to Node: 3 Package No.: 280
+------------------------------------ Progress: 277 of 400 completed
+Node: 0 works on Package: 281
+Recieve from Node: 1 Package: 278
+------------------------------------ Progress: 278 of 400 completed
+Send again to Node: 1 Package No.: 282
+Recieve from Node: 2 Package: 279
+------------------------------------ Progress: 279 of 400 completed
+Send again to Node: 2 Package No.: 283
+Recieve from Node: 3 Package: 280
+------------------------------------ Progress: 280 of 400 completed
+Send again to Node: 3 Package No.: 284
+------------------------------------ Progress: 281 of 400 completed
+Node: 0 works on Package: 285
+Recieve from Node: 2 Package: 283
+------------------------------------ Progress: 282 of 400 completed
+Send again to Node: 2 Package No.: 286
+Recieve from Node: 1 Package: 282
+------------------------------------ Progress: 283 of 400 completed
+Send again to Node: 1 Package No.: 287
+Recieve from Node: 3 Package: 284
+------------------------------------ Progress: 284 of 400 completed
+Send again to Node: 3 Package No.: 288
+------------------------------------ Progress: 285 of 400 completed
+Node: 0 works on Package: 289
+Recieve from Node: 2 Package: 286
+------------------------------------ Progress: 286 of 400 completed
+Send again to Node: 2 Package No.: 290
+Recieve from Node: 1 Package: 287
+------------------------------------ Progress: 287 of 400 completed
+Send again to Node: 1 Package No.: 291
+Recieve from Node: 3 Package: 288
+------------------------------------ Progress: 288 of 400 completed
+Send again to Node: 3 Package No.: 292
+------------------------------------ Progress: 289 of 400 completed
+Node: 0 works on Package: 293
+Recieve from Node: 2 Package: 290
+------------------------------------ Progress: 290 of 400 completed
+Send again to Node: 2 Package No.: 294
+Recieve from Node: 1 Package: 291
+------------------------------------ Progress: 291 of 400 completed
+Send again to Node: 1 Package No.: 295
+Recieve from Node: 3 Package: 292
+------------------------------------ Progress: 292 of 400 completed
+Send again to Node: 3 Package No.: 296
+------------------------------------ Progress: 293 of 400 completed
+Node: 0 works on Package: 297
+Recieve from Node: 2 Package: 294
+------------------------------------ Progress: 294 of 400 completed
+Send again to Node: 2 Package No.: 298
+Recieve from Node: 1 Package: 295
+------------------------------------ Progress: 295 of 400 completed
+Send again to Node: 1 Package No.: 299
+Recieve from Node: 3 Package: 296
+------------------------------------ Progress: 296 of 400 completed
+Send again to Node: 3 Package No.: 300
+------------------------------------ Progress: 297 of 400 completed
+Node: 0 works on Package: 301
+Recieve from Node: 2 Package: 298
+------------------------------------ Progress: 298 of 400 completed
+Send again to Node: 2 Package No.: 302
+Recieve from Node: 1 Package: 299
+------------------------------------ Progress: 299 of 400 completed
+Send again to Node: 1 Package No.: 303
+Recieve from Node: 3 Package: 300
+------------------------------------ Progress: 300 of 400 completed
+Send again to Node: 3 Package No.: 304
+------------------------------------ Progress: 301 of 400 completed
+Node: 0 works on Package: 305
+Recieve from Node: 2 Package: 302
+------------------------------------ Progress: 302 of 400 completed
+Send again to Node: 2 Package No.: 306
+Recieve from Node: 1 Package: 303
+------------------------------------ Progress: 303 of 400 completed
+Send again to Node: 1 Package No.: 307
+Recieve from Node: 3 Package: 304
+------------------------------------ Progress: 304 of 400 completed
+Send again to Node: 3 Package No.: 308
+------------------------------------ Progress: 305 of 400 completed
+Node: 0 works on Package: 309
+Recieve from Node: 2 Package: 306
+------------------------------------ Progress: 306 of 400 completed
+Send again to Node: 2 Package No.: 310
+Recieve from Node: 1 Package: 307
+------------------------------------ Progress: 307 of 400 completed
+Send again to Node: 1 Package No.: 311
+------------------------------------ Progress: 308 of 400 completed
+Node: 0 works on Package: 312
+Recieve from Node: 3 Package: 308
+------------------------------------ Progress: 309 of 400 completed
+Send again to Node: 3 Package No.: 313
+Recieve from Node: 1 Package: 311
+------------------------------------ Progress: 310 of 400 completed
+Send again to Node: 1 Package No.: 314
+Recieve from Node: 2 Package: 310
+------------------------------------ Progress: 311 of 400 completed
+Send again to Node: 2 Package No.: 315
+------------------------------------ Progress: 312 of 400 completed
+Node: 0 works on Package: 316
+Recieve from Node: 3 Package: 313
+------------------------------------ Progress: 313 of 400 completed
+Send again to Node: 3 Package No.: 317
+Recieve from Node: 1 Package: 314
+------------------------------------ Progress: 314 of 400 completed
+Send again to Node: 1 Package No.: 318
+Recieve from Node: 2 Package: 315
+------------------------------------ Progress: 315 of 400 completed
+Send again to Node: 2 Package No.: 319
+------------------------------------ Progress: 316 of 400 completed
+Node: 0 works on Package: 320
+Recieve from Node: 3 Package: 317
+------------------------------------ Progress: 317 of 400 completed
+Send again to Node: 3 Package No.: 321
+Recieve from Node: 1 Package: 318
+------------------------------------ Progress: 318 of 400 completed
+Send again to Node: 1 Package No.: 322
+Recieve from Node: 2 Package: 319
+------------------------------------ Progress: 319 of 400 completed
+Send again to Node: 2 Package No.: 323
+------------------------------------ Progress: 320 of 400 completed
+Node: 0 works on Package: 324
+Recieve from Node: 3 Package: 321
+------------------------------------ Progress: 321 of 400 completed
+Send again to Node: 3 Package No.: 325
+Recieve from Node: 1 Package: 322
+------------------------------------ Progress: 322 of 400 completed
+Send again to Node: 1 Package No.: 326
+Recieve from Node: 2 Package: 323
+------------------------------------ Progress: 323 of 400 completed
+Send again to Node: 2 Package No.: 327
+------------------------------------ Progress: 324 of 400 completed
+Node: 0 works on Package: 328
+Recieve from Node: 3 Package: 325
+------------------------------------ Progress: 325 of 400 completed
+Send again to Node: 3 Package No.: 329
+Recieve from Node: 1 Package: 326
+------------------------------------ Progress: 326 of 400 completed
+Send again to Node: 1 Package No.: 330
+Recieve from Node: 2 Package: 327
+------------------------------------ Progress: 327 of 400 completed
+Send again to Node: 2 Package No.: 331
+------------------------------------ Progress: 328 of 400 completed
+Node: 0 works on Package: 332
+Recieve from Node: 3 Package: 329
+------------------------------------ Progress: 329 of 400 completed
+Send again to Node: 3 Package No.: 333
+Recieve from Node: 1 Package: 330
+------------------------------------ Progress: 330 of 400 completed
+Send again to Node: 1 Package No.: 334
+Recieve from Node: 2 Package: 331
+------------------------------------ Progress: 331 of 400 completed
+Send again to Node: 2 Package No.: 335
+------------------------------------ Progress: 332 of 400 completed
+Node: 0 works on Package: 336
+Recieve from Node: 3 Package: 333
+------------------------------------ Progress: 333 of 400 completed
+Send again to Node: 3 Package No.: 337
+Recieve from Node: 1 Package: 334
+------------------------------------ Progress: 334 of 400 completed
+Send again to Node: 1 Package No.: 338
+Recieve from Node: 2 Package: 335
+------------------------------------ Progress: 335 of 400 completed
+Send again to Node: 2 Package No.: 339
+------------------------------------ Progress: 336 of 400 completed
+Node: 0 works on Package: 340
+Recieve from Node: 3 Package: 337
+------------------------------------ Progress: 337 of 400 completed
+Send again to Node: 3 Package No.: 341
+Recieve from Node: 1 Package: 338
+------------------------------------ Progress: 338 of 400 completed
+Send again to Node: 1 Package No.: 342
+------------------------------------ Progress: 339 of 400 completed
+Node: 0 works on Package: 343
+Recieve from Node: 2 Package: 339
+------------------------------------ Progress: 340 of 400 completed
+Send again to Node: 2 Package No.: 344
+Recieve from Node: 3 Package: 341
+------------------------------------ Progress: 341 of 400 completed
+Send again to Node: 3 Package No.: 345
+Recieve from Node: 1 Package: 342
+------------------------------------ Progress: 342 of 400 completed
+Send again to Node: 1 Package No.: 346
+------------------------------------ Progress: 343 of 400 completed
+Node: 0 works on Package: 347
+Recieve from Node: 2 Package: 344
+------------------------------------ Progress: 344 of 400 completed
+Send again to Node: 2 Package No.: 348
+------------------------------------ Progress: 345 of 400 completed
+Node: 0 works on Package: 349
+Recieve from Node: 2 Package: 348
+------------------------------------ Progress: 346 of 400 completed
+Send again to Node: 2 Package No.: 350
+Recieve from Node: 3 Package: 345
+------------------------------------ Progress: 347 of 400 completed
+Send again to Node: 3 Package No.: 351
+------------------------------------ Progress: 348 of 400 completed
+Node: 0 works on Package: 352
+Recieve from Node: 1 Package: 346
+------------------------------------ Progress: 349 of 400 completed
+Send again to Node: 1 Package No.: 353
+Recieve from Node: 2 Package: 350
+------------------------------------ Progress: 350 of 400 completed
+Send again to Node: 2 Package No.: 354
+Recieve from Node: 3 Package: 351
+------------------------------------ Progress: 351 of 400 completed
+Send again to Node: 3 Package No.: 355
+------------------------------------ Progress: 352 of 400 completed
+Node: 0 works on Package: 356
+Recieve from Node: 1 Package: 353
+------------------------------------ Progress: 353 of 400 completed
+Send again to Node: 1 Package No.: 357
+Recieve from Node: 2 Package: 354
+------------------------------------ Progress: 354 of 400 completed
+Send again to Node: 2 Package No.: 358
+Recieve from Node: 3 Package: 355
+------------------------------------ Progress: 355 of 400 completed
+Send again to Node: 3 Package No.: 359
+------------------------------------ Progress: 356 of 400 completed
+Node: 0 works on Package: 360
+Recieve from Node: 1 Package: 357
+------------------------------------ Progress: 357 of 400 completed
+Send again to Node: 1 Package No.: 361
+Recieve from Node: 2 Package: 358
+------------------------------------ Progress: 358 of 400 completed
+Send again to Node: 2 Package No.: 362
+------------------------------------ Progress: 359 of 400 completed
+Node: 0 works on Package: 363
+Recieve from Node: 3 Package: 359
+------------------------------------ Progress: 360 of 400 completed
+Send again to Node: 3 Package No.: 364
+Recieve from Node: 1 Package: 361
+------------------------------------ Progress: 361 of 400 completed
+Send again to Node: 1 Package No.: 365
+------------------------------------ Progress: 362 of 400 completed
+Node: 0 works on Package: 366
+Recieve from Node: 2 Package: 362
+------------------------------------ Progress: 363 of 400 completed
+Send again to Node: 2 Package No.: 367
+Recieve from Node: 1 Package: 365
+------------------------------------ Progress: 364 of 400 completed
+Send again to Node: 1 Package No.: 368
+Recieve from Node: 3 Package: 364
+------------------------------------ Progress: 365 of 400 completed
+Send again to Node: 3 Package No.: 369
+------------------------------------ Progress: 366 of 400 completed
+Node: 0 works on Package: 370
+Recieve from Node: 2 Package: 367
+------------------------------------ Progress: 367 of 400 completed
+Send again to Node: 2 Package No.: 371
+Recieve from Node: 1 Package: 368
+------------------------------------ Progress: 368 of 400 completed
+Send again to Node: 1 Package No.: 372
+Recieve from Node: 3 Package: 369
+------------------------------------ Progress: 369 of 400 completed
+Send again to Node: 3 Package No.: 373
+------------------------------------ Progress: 370 of 400 completed
+Node: 0 works on Package: 374
+Recieve from Node: 2 Package: 371
+------------------------------------ Progress: 371 of 400 completed
+Send again to Node: 2 Package No.: 375
+Recieve from Node: 1 Package: 372
+------------------------------------ Progress: 372 of 400 completed
+Send again to Node: 1 Package No.: 376
+Recieve from Node: 3 Package: 373
+------------------------------------ Progress: 373 of 400 completed
+Send again to Node: 3 Package No.: 377
+------------------------------------ Progress: 374 of 400 completed
+Node: 0 works on Package: 378
+Recieve from Node: 2 Package: 375
+------------------------------------ Progress: 375 of 400 completed
+Send again to Node: 2 Package No.: 379
+Recieve from Node: 1 Package: 376
+------------------------------------ Progress: 376 of 400 completed
+Send again to Node: 1 Package No.: 380
+Recieve from Node: 3 Package: 377
+------------------------------------ Progress: 377 of 400 completed
+Send again to Node: 3 Package No.: 381
+------------------------------------ Progress: 378 of 400 completed
+Node: 0 works on Package: 382
+Recieve from Node: 2 Package: 379
+------------------------------------ Progress: 379 of 400 completed
+Send again to Node: 2 Package No.: 383
+Recieve from Node: 1 Package: 380
+------------------------------------ Progress: 380 of 400 completed
+Send again to Node: 1 Package No.: 384
+Recieve from Node: 3 Package: 381
+------------------------------------ Progress: 381 of 400 completed
+Send again to Node: 3 Package No.: 385
+------------------------------------ Progress: 382 of 400 completed
+Node: 0 works on Package: 386
+Recieve from Node: 2 Package: 383
+------------------------------------ Progress: 383 of 400 completed
+Send again to Node: 2 Package No.: 387
+Recieve from Node: 1 Package: 384
+------------------------------------ Progress: 384 of 400 completed
+Send again to Node: 1 Package No.: 388
+Recieve from Node: 3 Package: 385
+------------------------------------ Progress: 385 of 400 completed
+Send again to Node: 3 Package No.: 389
+------------------------------------ Progress: 386 of 400 completed
+Node: 0 works on Package: 390
+Recieve from Node: 1 Package: 388
+------------------------------------ Progress: 387 of 400 completed
+Send again to Node: 1 Package No.: 391
+Recieve from Node: 2 Package: 387
+------------------------------------ Progress: 388 of 400 completed
+Send again to Node: 2 Package No.: 392
+Recieve from Node: 3 Package: 389
+------------------------------------ Progress: 389 of 400 completed
+Send again to Node: 3 Package No.: 393
+------------------------------------ Progress: 390 of 400 completed
+Node: 0 works on Package: 394
+Recieve from Node: 1 Package: 391
+------------------------------------ Progress: 391 of 400 completed
+Send again to Node: 1 Package No.: 395
+Recieve from Node: 2 Package: 392
+------------------------------------ Progress: 392 of 400 completed
+Send again to Node: 2 Package No.: 396
+Recieve from Node: 3 Package: 393
+------------------------------------ Progress: 393 of 400 completed
+Send again to Node: 3 Package No.: 397
+------------------------------------ Progress: 394 of 400 completed
+Node: 0 works on Package: 398
+Recieve from Node: 1 Package: 395
+------------------------------------ Progress: 395 of 400 completed
+Send again to Node: 1 Package No.: 399
+Recieve from Node: 3 Package: 397
+------------------------------------ Progress: 396 of 400 completed
+Send again to Node: 3 Package No.: 400
+Recieve from Node: 2 Package: 396
+------------------------------------ Progress: 397 of 400 completed
+Send termination signal to Node: 2
+------------------------------------ Progress: 398 of 400 completed
+Recieve from Node: 1 Package: 399
+------------------------------------ Progress: 399 of 400 completed
+Send termination signal to Node: 1
+Recieve from Node: 3 Package: 400
+------------------------------------ Progress: 400 of 400 completed
+Send termination signal to Node: 3
+Program terminates normally, Time: 6434.75 s

@@ -1,0 +1,148 @@
+Shot: 171491	Time: 3590ms
+No. of Packages = 50 Points per Package = 100
+
+Start Tracer for 5000 points ... 
+Send Package No.: 1
+Send Package No.: 2
+Send Package No.: 3
+Node: 0 works on Package: 4
+------------------------------------ Progress: 1 of 50 completed
+Node: 0 works on Package: 5
+Recieve from Node: 3 Package: 3
+------------------------------------ Progress: 2 of 50 completed
+Send again to Node: 3 Package No.: 6
+Recieve from Node: 1 Package: 1
+------------------------------------ Progress: 3 of 50 completed
+Send again to Node: 1 Package No.: 7
+Recieve from Node: 2 Package: 2
+------------------------------------ Progress: 4 of 50 completed
+Send again to Node: 2 Package No.: 8
+Recieve from Node: 3 Package: 6
+------------------------------------ Progress: 5 of 50 completed
+Send again to Node: 3 Package No.: 9
+------------------------------------ Progress: 6 of 50 completed
+Node: 0 works on Package: 10
+Recieve from Node: 1 Package: 7
+------------------------------------ Progress: 7 of 50 completed
+Send again to Node: 1 Package No.: 11
+Recieve from Node: 2 Package: 8
+------------------------------------ Progress: 8 of 50 completed
+Send again to Node: 2 Package No.: 12
+------------------------------------ Progress: 9 of 50 completed
+Node: 0 works on Package: 13
+Recieve from Node: 3 Package: 9
+------------------------------------ Progress: 10 of 50 completed
+Send again to Node: 3 Package No.: 14
+Recieve from Node: 1 Package: 11
+------------------------------------ Progress: 11 of 50 completed
+Send again to Node: 1 Package No.: 15
+Recieve from Node: 2 Package: 12
+------------------------------------ Progress: 12 of 50 completed
+Send again to Node: 2 Package No.: 16
+Recieve from Node: 3 Package: 14
+------------------------------------ Progress: 13 of 50 completed
+Send again to Node: 3 Package No.: 17
+------------------------------------ Progress: 14 of 50 completed
+Node: 0 works on Package: 18
+Recieve from Node: 1 Package: 15
+------------------------------------ Progress: 15 of 50 completed
+Send again to Node: 1 Package No.: 19
+Recieve from Node: 2 Package: 16
+------------------------------------ Progress: 16 of 50 completed
+Send again to Node: 2 Package No.: 20
+------------------------------------ Progress: 17 of 50 completed
+Node: 0 works on Package: 21
+Recieve from Node: 3 Package: 17
+------------------------------------ Progress: 18 of 50 completed
+Send again to Node: 3 Package No.: 22
+Recieve from Node: 1 Package: 19
+------------------------------------ Progress: 19 of 50 completed
+Send again to Node: 1 Package No.: 23
+Recieve from Node: 2 Package: 20
+------------------------------------ Progress: 20 of 50 completed
+Send again to Node: 2 Package No.: 24
+------------------------------------ Progress: 21 of 50 completed
+Node: 0 works on Package: 25
+Recieve from Node: 3 Package: 22
+------------------------------------ Progress: 22 of 50 completed
+Send again to Node: 3 Package No.: 26
+Recieve from Node: 1 Package: 23
+------------------------------------ Progress: 23 of 50 completed
+Send again to Node: 1 Package No.: 27
+------------------------------------ Progress: 24 of 50 completed
+Node: 0 works on Package: 28
+Recieve from Node: 2 Package: 24
+------------------------------------ Progress: 25 of 50 completed
+Send again to Node: 2 Package No.: 29
+Recieve from Node: 1 Package: 27
+------------------------------------ Progress: 26 of 50 completed
+Send again to Node: 1 Package No.: 30
+Recieve from Node: 3 Package: 26
+------------------------------------ Progress: 27 of 50 completed
+Send again to Node: 3 Package No.: 31
+Recieve from Node: 2 Package: 29
+------------------------------------ Progress: 28 of 50 completed
+Send again to Node: 2 Package No.: 32
+------------------------------------ Progress: 29 of 50 completed
+Node: 0 works on Package: 33
+Recieve from Node: 1 Package: 30
+------------------------------------ Progress: 30 of 50 completed
+Send again to Node: 1 Package No.: 34
+Recieve from Node: 3 Package: 31
+------------------------------------ Progress: 31 of 50 completed
+Send again to Node: 3 Package No.: 35
+Recieve from Node: 2 Package: 32
+------------------------------------ Progress: 32 of 50 completed
+Send again to Node: 2 Package No.: 36
+Recieve from Node: 3 Package: 35
+------------------------------------ Progress: 33 of 50 completed
+Send again to Node: 3 Package No.: 37
+Recieve from Node: 1 Package: 34
+------------------------------------ Progress: 34 of 50 completed
+Send again to Node: 1 Package No.: 38
+------------------------------------ Progress: 35 of 50 completed
+Node: 0 works on Package: 39
+Recieve from Node: 2 Package: 36
+------------------------------------ Progress: 36 of 50 completed
+Send again to Node: 2 Package No.: 40
+Recieve from Node: 1 Package: 38
+------------------------------------ Progress: 37 of 50 completed
+Send again to Node: 1 Package No.: 41
+Recieve from Node: 3 Package: 37
+------------------------------------ Progress: 38 of 50 completed
+Send again to Node: 3 Package No.: 42
+Recieve from Node: 1 Package: 41
+------------------------------------ Progress: 39 of 50 completed
+Send again to Node: 1 Package No.: 43
+Recieve from Node: 3 Package: 42
+------------------------------------ Progress: 40 of 50 completed
+Send again to Node: 3 Package No.: 44
+Recieve from Node: 1 Package: 43
+------------------------------------ Progress: 41 of 50 completed
+Send again to Node: 1 Package No.: 45
+Recieve from Node: 1 Package: 45
+------------------------------------ Progress: 42 of 50 completed
+Send again to Node: 1 Package No.: 46
+Recieve from Node: 3 Package: 44
+------------------------------------ Progress: 43 of 50 completed
+Send again to Node: 3 Package No.: 47
+Recieve from Node: 1 Package: 46
+------------------------------------ Progress: 44 of 50 completed
+Send again to Node: 1 Package No.: 48
+Recieve from Node: 3 Package: 47
+------------------------------------ Progress: 45 of 50 completed
+Send again to Node: 3 Package No.: 49
+Recieve from Node: 1 Package: 48
+------------------------------------ Progress: 46 of 50 completed
+Send again to Node: 1 Package No.: 50
+Recieve from Node: 3 Package: 49
+------------------------------------ Progress: 47 of 50 completed
+Send termination signal to Node: 3
+Recieve from Node: 1 Package: 50
+------------------------------------ Progress: 48 of 50 completed
+Send termination signal to Node: 1
+------------------------------------ Progress: 49 of 50 completed
+Recieve from Node: 2 Package: 40
+------------------------------------ Progress: 50 of 50 completed
+Send termination signal to Node: 2
+Program terminates normally, Time: 102.6510000228882 s
