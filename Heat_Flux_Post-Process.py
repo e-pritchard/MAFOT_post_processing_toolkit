@@ -35,7 +35,7 @@ import matplotlib.pyplot as plt
 from dataclasses import dataclass
 from pathlib import Path
 from typing import Callable, Dict, Tuple, Optional
-
+from scipy.ndimage import uniform_filter
 from scipy.interpolate import interp1d
 
 # ----------------------------- Physical constants -----------------------------
@@ -130,8 +130,8 @@ def read_footprint_file(path: str | Path) -> Footprint:
                 f"but inferred Nphi={Nphi}, Nt={Nt} (product {Nphi*Nt})."
             )
 
-    # Previous Shaping created a 300x600 matrix, accidently assigning phi coordinates (600) to 
-    # the rows. This gives a proper shaping of a 600x300 matrix with phi varying by row 
+    # Previous Shaping created a 300x600 matrix, accidently assigning phi coordinates (600) to the rows. 
+    # This gives a proper shaping of a 600x300 matrix with phi still varying across row but now properly fitting all points
     phi2 = phi.reshape(Nt, Nphi, order="C").T
     s2   = s_wall.reshape(Nt, Nphi, order="C").T
     psi2 = psi_min.reshape(Nt, Nphi, order="C").T
@@ -347,6 +347,11 @@ def compute_q_parallel(
         fp = footprints_by_energy_keV[float(E_keV)]
         if fp.psi_min.shape != (Nphi, Nt):
             raise ValueError(f"Grid mismatch for E={E_keV} keV: got {fp.psi_min.shape}, expected {(Nphi, Nt)}")
+        
+        if Lc_min_km > 0:
+            mask_pen = fp.Lc_psimin > Lc_min_km
+        else:
+            mask_pen = np.ones_like(fp.psi_min, dtype=bool)
 
         psi_min = fp.psi_min
 
@@ -504,8 +509,8 @@ def main():
     Ti_loaded = np.loadtxt("Density_Temperature_Profiles/Extended_Profiles/171491_ti_extended.dat")
     
     psi_prof = ni_loaded[:,0]
-    n_prof = ni_loaded[:,1]
-    Ti_prof_keV = Ti_loaded[:,1]
+    n_prof = ni_loaded[:,1] * 10**20 #n_prof is in units of (10^20/m^3)
+    T_prof_keV = Ti_loaded[:,1]
 
 
     #PROFILES FOR ELECTRONS
@@ -518,7 +523,7 @@ def main():
     # T_prof_keV = Te_loaded[:,1]
 
 
-    profiles = make_profile_interpolants_keV(psi_prof, n_prof, Ti_prof_keV)
+    profiles = make_profile_interpolants_keV(psi_prof, n_prof, T_prof_keV)
 
     # ---- 2) Footprint files for each energy ----
 
@@ -569,7 +574,7 @@ def main():
     me = 9.1093837 * 10**-31
 
     # ---- 4) Compute q_parallel(phi, s_wall) ----
-    phi, s_wall, R_div, Z_div, q_parallel = compute_q_parallel(
+    phi, s_wall, R_div, Z_div, q_parallel, BR_div, BZ_div, Bphi_div = compute_q_parallel(
         footprints_by_energy,
         profiles,
         ion_mass_kg=mi,
