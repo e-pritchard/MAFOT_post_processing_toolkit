@@ -1,0 +1,29 @@
+# Parameterfile for DIII-D Programs
+# Shot: 171491	Time: 3590ms
+# Path: /Users/epritchard/Research/MAFOT/python/g171491.03590
+Nphi=	600
+itt=	500
+tmin=	-0.2
+tmax=	0.5
+phimin=	0.0
+phimax=	6.283185307179586
+Nt=	1200
+phistart(deg)=	0.0
+MapDirection=	-1
+PlasmaResponse(0=no,>1=yes)=	0
+Field(-4=GPEC,-3=VMEC,-2=SIESTA,-1=gfile,M3DC1:0=Eq,1=I-coil,2=both)=	-1
+target(0=wall,1=inner,2=outer,3=shelf)=	1
+createPoints(2=target)=	2
+useFcoil(0=no,1=yes)=	0
+useCcoil(0=no,1=yes)=	0
+useIcoil(0=no,1=yes)=	0
+ParticleDirection(1=co-pass,-1=ctr-pass,0=field-lines)=	1
+PartileCharge(-1=electrons,>=1=ions)=	1
+Ekin[keV]=	0.2
+lambda=	0.1
+Mass=	2.0
+useFilament(0=no)=	0
+useBusError(0=no,1=yes)=	0
+useBcoilError(0=no,1=yes)=	0
+pi=	3.141592653589793
+2*pi=	6.283185307179586
